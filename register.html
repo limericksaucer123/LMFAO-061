@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google fonts --> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap" rel="stylesheet">
+
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/87338cd393.js" crossorigin="anonymous"></script>
+
+    <title>Register</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="logo">
+        <h1 class="logo-text">
+          <i><span>L.M.F.A.O</span></i> 061
+        </h1>
+      </div>
+
+      <i class="fa-solid fa-bars menu-toggle"></i>
+
+      <ul class="nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+          <!---<li><a href ="#">Sign Up</a></li>
+          <li><a href ="#">Login</a></li> --> 
+
+        <li>
+          <a href="#">
+            <i class="fa-regular fa-user" style="font-size: .8em;"></i>
+            Username
+            <i class="fa fa-chevron-down" style="font-size: .8em;"></i>
+          </a>
+          <ul>
+            <li><a href="#">Dashboard</a></li>
+            <li><a href="#" class="logout">Logout</a></li>
+          </ul>
+        </li>
+      </ul>
+    </header>
+
+    <div class="auth-content">
+      <form action="register.html" method="post">
+        <h2 class="form-title">Register</h2>
+        
+<!---<div class="msg error"><li>Username Required</li>
+</div> -->
+        <div>
+          <label>Username : <u>remember</u> will need this to log in)</label>
+          <input type="text" name="username" class="text-input">
+        </div>
+
+        <div>
+          <label>Email</label>
+          <input type="email" name="email" class="text-input">
+        </div>
+
+        <div>
+          <label>Password</label>
+          <input type="password" name="password" class="text-input">
+        </div>
+
+        <div>
+          <label>Password Confirmation</label>
+          <input type="password" name="passwordConf" class="text-input">
+        </div>
+
+        <div>
+          <button type="submit" name="register-btn" class="btn btn-big">Register</button>
+        </div>
+
+        <p>Or <a href="login.html">Sign In</a></p>
+      </form>
+      
+    </div> 
+
+    <!-- jQuery --> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+      integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+      crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Custom Script -->
+    <script src="scripts.js"></script>
+
+  </body>
+</html>
