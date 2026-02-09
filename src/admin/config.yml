@@ -5,7 +5,7 @@ backend:
 # Media files
 media_folder: "src/images"    # Store uploaded images here
 public_folder: "/images"      # Path used in the generated site
-media_library: {}             # Required by Netlify CMS
+media_library: {name: "netlify"}             # Required by Netlify CMS
 
 collections:
   - name: "blog"
