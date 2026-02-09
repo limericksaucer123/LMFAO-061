@@ -5,12 +5,12 @@ backend:
 # Media files
 media_folder: "src/images"    # Store uploaded images here
 public_folder: "/images"      # Path used in the generated site
-media_library: {netlify}             # Required, use local media library
+media_library: {}             # Required by Netlify CMS
 
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "src/blog"        # Folder where posts are stored
+    folder: "src/blog"        # Matches your project structure
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
