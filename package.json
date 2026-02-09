@@ -5,7 +5,8 @@
   "main": "scripts.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "prebuild": "chmod +x ./node_modules/.bin/eleventy || true",
+    "build": "node ./node_modules/@11ty/eleventy/bin/eleventy.js"
   },
   "repository": {
     "type": "git",
