@@ -1,14 +1,18 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-  media_folder: "images" # Media files will be stored in the repo under images/uploads
+  branch: main # Branch to update (defaults to main)
+
+# Media files configuration
+media_folder: "src/images"    # Where uploaded images are stored in your repo
+public_folder: "/images"      # Path used in the generated site
+
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "_posts/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+  - name: "blog"               # Collection identifier
+    label: "Blog"              # Label shown in CMS UI
+    folder: "_posts/blog"      # Folder where blog posts are stored
+    create: true               # Allow creation of new documents
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template
+    fields:                    # Front matter fields for each post
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
