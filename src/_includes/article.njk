@@ -1,0 +1,22 @@
+---
+layout: 'base.njk'
+---
+
+    <!-- main content -->
+    <div class="main-content single">
+      <h1 class="post-title">
+        {{ title }}
+      </h1>
+
+      <div class="post-content">
+        <img src="{{ image }}" alt="{{ imageAlt }}">
+        <divcaption>
+        This is a test
+        </divcaption>
+
+           {{content | safe}}
+           
+      </div>
+    </div>
+   
+

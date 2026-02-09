@@ -1,0 +1,29 @@
+<div class="post-slider">
+  <h1 class="slider-title">Amazing Articles</h1>
+  
+  <!-- Slick looks for these specific classes for navigation -->
+  <i class="fa-solid fa-angle-left prev" style="color:#ffffff;"></i>
+  <i class="fa-solid fa-angle-right next" style="color:#ffffff;"></i>
+
+  <div class="post-wrapper">
+    {# Loop through the 'post' collection in reverse (newest first) #}
+    {%- for post in collections.featured| reverse -%}
+      <div class="post">
+        {# Use post.data to access front matter values #}
+        <img src="{{ post.data.image }}" alt="{{ post.data.title }}" class="slider-image">
+        
+        <div class="post-info">
+          <h4>
+            <a href="{{ post.url }}"><u>{{ post.data.title }}</u></a>
+          </h4>
+          
+          {# Replace hard-coded name/date with dynamic data #}
+          <em><strong>{{ post.data.author | default("John Keel") }}</strong></em>
+          &nbsp;
+          {# You can use a filter like | postDate if you have one set up in .eleventy.js #}
+          <i><strong></strong></i>
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+</div>

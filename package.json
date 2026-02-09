@@ -1,0 +1,25 @@
+{
+  "name": "lmfaogroup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limericksaucer123/lmfaogroup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/limericksaucer123/lmfaogroup/issues"
+  },
+  "homepage": "https://github.com/limericksaucer123/lmfaogroup#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

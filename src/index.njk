@@ -1,0 +1,35 @@
+---
+title: LMFAO homepage
+layout: 'base.njk'
+---
+
+<!-- page wrapper -->
+<div class="page-wrapper">
+
+  <!-- post slider -->
+  <ul class="post-slider"
+{% include "post-slider.njk" %}
+</ul>
+  <!-- /post slider -->
+
+   <ul class="posts-list">
+      {%- for post in collections.featured | reverse -%}
+      {% include 'article-snippet.njk'%}
+      {% endfor %}
+    </ul>
+
+  </div>
+  <!-- /Content -->
+</div>
+<!-- /page wrapper -->
+
+
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!-- Slick Carousel -->
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<!-- Custom Script -->
+<script src="/js/scripts.js"></script>
+

@@ -1,0 +1,17 @@
+---
+title: Blog
+layout: base.njk
+permalink: /blog/
+---
+
+<div class="content clearfix">
+  <div class="main-content">
+
+    <ul class="posts-list">
+      {%- for post in collections.post | reverse -%}
+      {% include 'article-snippet.njk' %}
+      {%- endfor -%}
+    </ul>
+
+  </div>
+</div>
