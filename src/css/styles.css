@@ -266,7 +266,8 @@ header .menu-toggle {
   background: red;
   padding: 20px 50px; 
   font-size: 1.1em;
-  
+  max-width: 800px;
+  margin: 0 auto;
 }
 .content .sidebar {
   width: 30%;
@@ -336,20 +337,32 @@ header .menu-toggle {
   object-fit: cover;
 }
 
-.cotent .main-content.single .post-title {
+.cotent .main-content.single .post-title,
+.content .main-content.single h1,
+.content .main-content.single h2,
+.content .main-content.single h3,
+.content .main-content.single h4,
+.content .main-content.single h5,
+.content .main-content.single h6 {
   text-align: center;
   margin-bottom: 40px;
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   padding: 2rem;
-  
 }
 
 .main-content.single {
   width: 100%;
 }
 .post-content {
-color: white;
+  color: white;
+  text-align: justify;
+  line-height: 1.8;
+  letter-spacing: 0.5px;
+}
+
+.post-content p {
+  margin: 1.5rem 0;
 }
 .content .main-content .post .post-preview  {
   width: 60%;
