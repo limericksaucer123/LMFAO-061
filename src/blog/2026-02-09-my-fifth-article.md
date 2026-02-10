@@ -1,7 +1,11 @@
-title: "fifth post"
-author: "Mark Cusack"
-imageAlt: this is a test
-image: /images/bigfoot.jpg
-description: "A simple guide to writing blog posts in Markdown."
 ---
-
+title: "UNDER CONSTRUCTION"
+author: Mark Cusack
+date: 2026-02-09
+tags:
+  - post
+  - featured
+image: /images/ufo.jpg
+imageAlt: this is a test
+description: .
+---

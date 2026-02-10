@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-title: "first post"
-author: "Mark Cusack"
-image: /images/bigfoot.jpg
-=======
+
 ---
 title: "L.M.F.A.O 061 - A NEW FRONTIER IN LIMERICK JOURNALISM "
 author: "Mark 'the bull' Cusack "
@@ -11,7 +7,6 @@ tags:
   - post
   - featured
 image: /images/LMFAO.jpg
->>>>>>> a00001aae42d5db36e7079d3dd53ce352d8f784c
 imageAlt: this is a test
 description: The breaking of a new dawn on the wasteland that is Limerick journalism
 ---
