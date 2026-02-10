@@ -136,6 +136,10 @@ header .logo-text {
   font-family: 'Inter', 'Medium500';
 }
 
+header .logo-text.goo-title {
+  filter: url(#goo);
+}
+
 header .logo-text span {
   color: white;
 }
@@ -156,6 +160,7 @@ header ul li a {
   display: block;
   padding: 21px;
   font-size: 1.1em;
+  text-shadow: 0 0 10px rgba(255, 255, 0, 0.8), 0 0 20px rgba(255, 255, 0, 0.6);
 }
 
 header ul li a:hover {
