@@ -5,15 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>fifth post</title>
   <link rel="stylesheet" href="/css/styles.css">
+
+   <!-- SVG Filters -->
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display: none;">
+    <defs>
+      <filter id="goo">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"></feGaussianBlur>
+        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 13 -4" result="goo"></feColorMatrix>
+        <feBlend in="goo" in2="goo"></feBlend>
+      </filter>
+      <filter id="invert">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"></feGaussianBlur>
+        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 13 -4" result="goo"></feColorMatrix>
+        <feBlend in="goo" in2="goo"></feBlend>
+      </filter>
+    </defs>
+  </svg>
+  
+  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
   <!-- font Awesome -->
   <script src="https://kit.fontawesome.com/87338cd393.js" crossorigin="anonymous"></script>
 
 </head>
 <body>
-
+  <div class="mobile-banner">
+    <marquee behavior="scroll" direction="left">Mobile users please use as desktop site. Its an option when pressing the 3 dots in the corner of your browser, otherwise itll look like shit</marquee>
+  </div>
   <header>
   <div class="logo">
-    <h1 class="logo-text"><i><span>L.M.F.A.O </span></i> 061</h1>
+    <h1 class="logo-text goo-title"><i><span>L.M.F.A.O </span></i> 061</h1>
   </div>
 
   <i class="fa-solid fa-bars menu-toggle"></i>
@@ -38,12 +59,15 @@
       </h1>
 
       <div class="post-content">
-        <img src="/images/bigfoot.jpg" alt="this is a test">
+        <img src="/images/LMFAO.jpg" alt="LMFAO logo">
         <divcaption>
         This is a test
         </divcaption>
 
-           
+           <h1>How to Create Markdown Blog Posts</h1>
+<p><picture><source type="image/webp" srcset="/images/optimized/Yut1pAU_Rm-300.webp 300w, /images/optimized/Yut1pAU_Rm-600.webp 600w, /images/optimized/Yut1pAU_Rm-900.webp 900w" sizes="90vw"><img src="/images/optimized/Yut1pAU_Rm-300.jpeg" alt="LMFAO" loading="lazy" decoding="async" width="900" height="784" srcset="/images/optimized/Yut1pAU_Rm-300.jpeg 300w, /images/optimized/Yut1pAU_Rm-600.jpeg 600w, /images/optimized/Yut1pAU_Rm-900.jpeg 900w" sizes="90vw"></picture></p>
+<p>Markdown makes writing blogs simple and portable.</p>
+
            
       </div>
     </div>
@@ -76,6 +100,19 @@ This website acts as a centralized source of articles and investigative pieces p
 </div>
 <!-- /footer -->
 
+
+
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
   
 </body>
 </html>

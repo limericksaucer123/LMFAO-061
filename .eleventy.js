@@ -1,7 +1,25 @@
 const Image = require("@11ty/eleventy-img");
 
 module.exports = function (eleventyConfig) {
-  // Image optimization shortcode
+  // Image optimization shortcode for both Liquid and Nunjucks
+  eleventyConfig.addLiquidShortcode("image", async function(src, alt, sizes = "90vw") {
+    let metadata = await Image(src, {
+      widths: [300, 600, 900, 1200],
+      formats: ["webp", "jpeg"],
+      outputDir: "./public/images/optimized/",
+      urlPath: "/images/optimized/"
+    });
+
+    let imageAttributes = {
+      alt,
+      sizes,
+      loading: "lazy",
+      decoding: "async"
+    };
+
+    return Image.generateHTML(metadata, imageAttributes);
+  });
+
   eleventyConfig.addNunjucksAsyncShortcode("image", async function(src, alt, sizes = "90vw") {
     let metadata = await Image(src, {
       widths: [300, 600, 900, 1200],
