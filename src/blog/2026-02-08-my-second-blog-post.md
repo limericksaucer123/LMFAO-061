@@ -6,7 +6,6 @@ tags:
   - post
   - featured
 image: /images/bigfoot.jpg
-imageAlt: this is a test
 description: .
 ---
 d

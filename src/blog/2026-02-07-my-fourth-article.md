@@ -6,6 +6,5 @@ tags:
   - post
   - featured
 image: /images/ufo.jpg
-imageAlt: this is a test
 description: .
 ---
