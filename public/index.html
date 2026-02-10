@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#8e2525">
   <title>LMFAO homepage</title>
   <link rel="stylesheet" href="/css/styles.css">
 
@@ -29,8 +33,9 @@
 
 </head>
 <body>
+  <a href="#main-content" class="skip-link" style="position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:1000;background:#8e2525;color:white;padding:8px;">Skip to main content</a>
   <div class="mobile-banner">
-    <marquee behavior="scroll" direction="left">Mobile users please use as desktop site. Its an option when pressing the 3 dots in the corner of your browser, otherwise itll look like shit</marquee>
+    <marquee behavior="scroll" direction="left">Mobile users: site is now mobile-friendly! If you have issues, try desktop mode.</marquee>
   </div>
   <header>
   <div class="logo">
@@ -38,9 +43,11 @@
   </div>
 
 
-  <i class="fa-solid fa-bars menu-toggle"></i>
+  <button class="menu-toggle" aria-label="Open navigation menu" aria-controls="main-nav" aria-expanded="false" style="background:none;border:none;cursor:pointer;font-size:1.9em;position:absolute;right:20px;top:20px;z-index:1001;">
+    <i class="fa-solid fa-bars"></i>
+  </button>
 
-  <ul class="nav">
+  <ul class="nav" id="main-nav" role="navigation">
     <li><a href="/blog/">All Articles</a></li>
     <li><a href="/index/">Home</a></li>
     
@@ -51,7 +58,7 @@
 
 
 
-  <main>
+  <main id="main-content">
   
 
 <!-- page wrapper -->
