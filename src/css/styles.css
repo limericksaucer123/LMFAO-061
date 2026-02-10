@@ -361,7 +361,7 @@ header .menu-toggle {
   text-align: justify;
   line-height: 1.8;
   letter-spacing: 0.5px;
-  background: white;
+  background: rgb(197, 197, 197);
   padding: 2rem;
   border-radius: 8px;
 }
