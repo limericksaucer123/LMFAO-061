@@ -32,9 +32,6 @@ html, body {
   font-family: 'Courier Prime', 'Static';
 }
 
-h1{
-filter: url('#goo');
-}
 
 h1,
 h2,
