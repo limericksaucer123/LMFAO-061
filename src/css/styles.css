@@ -1,4 +1,21 @@
 /* =====================
+   MOBILE BANNER
+   ===================== */
+
+.mobile-banner {
+  background: #8e2525;
+  color: white;
+  padding: 10px 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+.mobile-banner marquee {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+/* =====================
    GLOBAL RESET
    ===================== */
 
@@ -233,7 +250,7 @@ header .menu-toggle {
   display: inline-block;
   background: #8e2525;
   
-  box-shadow: 1rem 1rem 1rem -1rem white;
+  box-shadow: 1rem 1rem 1rem -1rem #8e2525;
 }
 
 .post-slider .post-wrapper .post .slider-image {
