@@ -361,9 +361,10 @@ header .menu-toggle {
   text-align: justify;
   line-height: 1.8;
   letter-spacing: 0.5px;
-  background: rgb(197, 197, 197);
+  background: white;
   padding: 2rem;
- 
+  margin: 2rem;
+  border-radius: 8px;
 }
 
 .post-content h1,
