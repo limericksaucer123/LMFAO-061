@@ -5,6 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
   <link rel="stylesheet" href="/css/styles.css">
+
+   <!-- SVG Filters -->
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display: none;">
+    <defs>
+      <filter id="goo">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"></feGaussianBlur>
+        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 13 -4" result="goo"></feColorMatrix>
+        <feBlend in="goo" in2="goo"></feBlend>
+      </filter>
+      <filter id="invert">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"></feGaussianBlur>
+        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 13 -4" result="goo"></feColorMatrix>
+        <feBlend in="goo" in2="goo"></feBlend>
+      </filter>
+    </defs>
+  </svg>
   
   <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   
