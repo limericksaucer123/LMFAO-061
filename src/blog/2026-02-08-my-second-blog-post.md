@@ -8,7 +8,11 @@ tags:
 image: /images/20260213_225325.jpg
 description: .
 ---
-Pharmacia was packed tonight for the fundraiser in support of the shannon 3. Every beautiful person in Limerick was out in their finest furs. See if you find yourself in the pictures below. Next time you are out see if you can spot one of our 16 photographers to be featured. 
+Pharmacia was packed tonight for the fundraiser in support of the Shannon 3. Every beautiful person in Limerick was out in their finest furs. See if you find yourself in the pictures below. 
+
+Next time you are partying look out for one of our 17 photographers for a chance to be featured. 
+
+
 
 ![](/images/20260213_215547.jpg "Leaving the blue room music bound")
 
@@ -16,7 +20,7 @@ Pic 1 - Leaving the blue room music bound
 
 ![](/images/20260213_222400.jpg)
 
-pic 2 - the sort of thing people were drinking 
+Pic 2 - the sort of thing people were drinking 
 
 ![](/images/20260213_225325.jpg)
 
