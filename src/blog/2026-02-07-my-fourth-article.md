@@ -1,5 +1,5 @@
 ---
-title: Fundraiser in support of the 'Shannon 3' at Pharmacia this Friday
+title: Fundraiser in support of the 'Shannon Three' at Pharmacia this Friday
 author: Mark Cusack
 date: 2026-02-11T20:34:00.000+00:00
 tags:
