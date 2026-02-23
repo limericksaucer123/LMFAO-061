@@ -8,11 +8,6 @@ tags:
 image: /images/gery-inside-with-painting.jpg
 description: .
 ---
-
-
-
-
-
 What
 follows is an account of the alien abduction of Gerry Battles in Pallaskenry,
 Limerick as told to the Limerick Post in February 2016. All quotes, details and
@@ -29,8 +24,8 @@ the bartender nodded as he headed for the door. He stepped out onto the tarmac,
 and a light hung in the awning above his head. It barely illuminated the heavy,
 viscous hedges that clung to the other side of the road.  
 
-> “It was a
-> clear, dry night. It was really crisp and frosty – just beautiful” 
+> **“It was a
+> clear, dry night. It was really crisp and frosty – just beautiful”** 
 
 His breath
 hung in the air as he meandered his way down towards his home. “You
@@ -39,43 +34,42 @@ edge of a puddle and marveled at the reflection of the night sky at his feet,
 craning his neck back to take in the stars. 
 
 Like a smack into the side of the head, he was blinded by a
-‘bright, surgical white light coming from the other end of the boreen.’ 
+**‘bright, surgical white light coming from the other end of the boreen.’** 
 
 His vision returned, and he found himself amongst dozens of
 people, frozen in place. 
 
-> "They were all male, of differnt age groups, all
-> standing shoulder to shoulder like mannequins.”
+> **"They were all male, of differnt age groups, all
+> standing shoulder to shoulder like mannequins.”**
 
 His eyes moved calmly across the bodies that stood like
 bloated flamingos in a big, murky freezer. A man stood to his right wearing a
-‘Columbo-style coat and hat’. 
+**‘Columbo-style coat and hat’.** 
 
 The hairs on his arms stood up as he felt his body start to
 rise towards the ceiling, passing into a larger chamber. He found himself in
 the centre of 360 degree viewing deck.
 
-> “It was then I saw the extraterrestrial. I couldn’t tell how
+> **“It was then I saw the extraterrestrial. I couldn’t tell how
 > big he was or even if he had arms or legs, all I remember is his big cone head
-> and his beautiful, ginormous eyes. They were jet black, almost like mirrors.”
+> and his beautiful, ginormous eyes. They were jet black, almost like mirrors.”**
 
 It's big, beautiful, wet head reflected the soft throbbing
 light of the room as his mind was filled with a gentle voice.
 
-“He spoke to me through telepathy and said: ‘You are not
-terrified like the others.’
+**“He spoke to me through telepathy and said: ‘You are not
+terrified like the others.’**
 
 Gerry's superior Pallaskenry DNA clearly impressed the
-creature and he very much knew this as he asked, “No, I am not. Should I be?”.
+creature and he very much knew this as he asked, **“No, I am not. Should I be?”.**
 
 ![](/images/gerry-with-trampoline.jpg)
 
-
 The alien's expression did not change as they stood in
-silence until its voice filled his head once again, “where would you like to
-go?”. 
+silence until its voice filled his head once again, **“where would you like to
+go?”.** 
 
-“The North Pole” he replied. 
+**“The North Pole”** he replied. 
 
 > “The next thing the extraterrestrial gave a command, and in
 > an instant we were at the North Pole. I was in awe. I remember thinking of that
@@ -83,16 +77,16 @@ go?”.
 > snowstorm at 500 miles an hour.”
 
 The alien's tone shifted and began speaking in a low rumble,
-“In 850 years from now, a giant asteroid the size of Munster is going to
+**“In 850 years from now, a giant asteroid the size of Munster is going to
 obliterate your planet. The asteroid will approach your planet from the 35th
-Quadrant.”
+Quadrant.”**
 
 Floating in stasis above the North Pole, the alien explained
 that every earthly government was lying to its people ‘since day one’ and told
 him not to trust the banks as they a ‘hidden agenda’.  
 
-“You must use the force. Be one with the force. Harness the
-force,” the alien hummed as Gerry drifted away. 
+**“You must use the force. Be one with the force. Harness the
+force,”** the alien hummed as Gerry drifted away. 
 
 Two weeks passed as Gerry shakily unlocked his front door.
 His arms were full of various Centra goods: a box of wedges, two Uncle Ben’s
@@ -133,30 +127,22 @@ ovoid eyes boomed in his brain. He dropped the phone.
 
 ![](/images/happy-gerry-with-painting.jpg)
 
-
 I first became aware of this story 2 years ago
 when researching whether there was any UFO activity in or around Limerick city.
 The first 5 links were articles relating to supposed ‘alien sightings’ in the
 north side of Limerick city. A review of each link found that the supposed
 sightings were, in fact a light show rehearsal at Thomond Park.
 
-
-
 ![](/images/alien-sightings-limerick.png)
-
-
-
-
-
-
 
 Further down was a Limerick Post article titled ‘Close
 Encounters of the County Limerick kind’. 
 
 The article contained the story of 61 year old retired
 carpenter Gerry Battles and his supposed abduction by extra terrestrials in
+
 2001. The story was fantastic and it was clear from the tone of the article
-that the author did not believe a single word of what Gerry was describing. 
+      that the author did not believe a single word of what Gerry was describing. 
 
 I became enamored by the photos of Gerry , one of which was
 him standing looking very stern in front of a trampoline on its side, with the
@@ -231,12 +217,6 @@ this: “ The aliens use '*dark matter*' or '*dark energy*' as a
 perfect cloaking device to keep their universe hidden from our own.” 
 
 ![](/images/gerry-with-strange-device.jpg)
-
-
-
-
-
-
 
 I would like badly to speak with Gerry. The imagery of his
 house and garden covered in hand-painted pictures of aliens in Limerick is so
