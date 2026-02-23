@@ -1,5 +1,5 @@
 ---
-title: "Gerry Battles : Limericks Only Alien Abductee?"
+title: "Gerry Battles : The Search For Limericks Only Alien Abductee?"
 author: Mark Cusack
 date: 2026-02-23T15:55:00.000+00:00
 tags:
