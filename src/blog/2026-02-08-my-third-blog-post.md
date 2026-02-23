@@ -21,7 +21,7 @@ Sisters Pub, Kildimo, 8 pm, St Stephens day, 2001.**
 Battles
 finished his second pint and bade his pal’s farewell. The pub was quiet, and
 the bartender nodded as he headed for the door. He stepped out onto the tarmac,
-and a light hung in the awning above his head. It barely illuminated the heavy,
+a light hung in the awning above his head. It barely illuminated the heavy,
 viscous hedges that clung to the other side of the road.  
 
 > **“It was a
@@ -60,8 +60,8 @@ light of the room as his mind was filled with a gentle voice.
 **“He spoke to me through telepathy and said: ‘You are not
 terrified like the others.’**
 
-Gerry's superior Pallaskenry DNA clearly impressed the
-creature and he very much knew this as he asked, **“No, I am not. Should I be?”.**
+Gerry's superior Pallaskenrian DNA clearly impressed the
+creature and as he replied, **“No, I am not. Should I be?”.**
 
 ![](/images/gerry-with-trampoline.jpg)
 
@@ -83,7 +83,7 @@ Quadrant.”**
 
 Floating in stasis above the North Pole, the alien explained
 that every earthly government was lying to its people ‘since day one’ and told
-him not to trust the banks as they a ‘hidden agenda’.  
+him not to trust the banks as they had a ‘hidden agenda’.  
 
 **“You must use the force. Be one with the force. Harness the
 force,”** the alien hummed as Gerry drifted away. 
@@ -98,11 +98,11 @@ he felt so cold. He noticed his reflection in the kitchen window and saw that hi
 Palleskenrian frame was draped in an old Star Wars graphic t-shirt and not his
 new Ted Baker puffer jacket. He went to his room and checked the wardrobe,
 searching for the beloved overcoat that his eldest grandchild had bought him
-for Christmas. He stood there staring into the mirror trying to back to when he
+for Christmas. He stood there staring into the mirror trying to think back to when he
 last wore it. It was St Stephens day at the Seven Sisters pub. He remembered
 adjusting the zipper in the bathroom to reveal just the first two buttons of
 his shirt underneath , how when he sat down the jackets puffs maintained a
-beautiful neutral shape – not too round and bulbous but also not too flat. His
+beautiful neutral shape – not too round or bulbous but also not too flat. His
 friends commented on how slimming it was on Gerry as he stood up finishing the
 last drop of his pint. He remembered how warm he was as he stepped out the
 front door and how his arms didn’t make that annoying swishing sound as he
@@ -114,21 +114,21 @@ in the kitchen as his phone rang.
 >
 > “Yes , who is this?”
 >
-> “I am a contractor working at the regional hospital. Did you
+> “I am a contractor working at the Regional hospital. Did you
 > by any chance leave a magnificent Ted Baker puffer jacket here by mistake?”
 
-Gerry's hands began to shake, the image of the creature's
+Gerry's hands began to shake, it all came flooding back as the image of the creature's
 ovoid eyes boomed in his brain. He dropped the phone.
 
 > “Well, just found it here on the
-> roof of the regional. Very smart putting your name and phone number on the tag,
+> roof of the Regional. Very smart putting your name and phone number on the tag,
 > it is such a noble piece of clothing, I figured you'd be worried sick. No idea
 > how the fuck you even got up here”.
 
 ![](/images/happy-gerry-with-painting.jpg)
 
 I first became aware of this story 2 years ago
-when researching whether there was any UFO activity in or around Limerick city.
+when researching whether there was any UFO activity in or around Limerick City.
 The first 5 links were articles relating to supposed ‘alien sightings’ in the
 north side of Limerick city. A review of each link found that the supposed
 sightings were, in fact a light show rehearsal at Thomond Park.
@@ -139,16 +139,16 @@ Further down was a Limerick Post article titled ‘Close
 Encounters of the County Limerick kind’. 
 
 The article contained the story of 61 year old retired
-carpenter Gerry Battles and his supposed abduction by extra terrestrials in
+carpenter Gerry Battles and his supposed abduction by extra terrestrials in 2001.
 
-2001. The story was fantastic and it was clear from the tone of the article
-      that the author did not believe a single word of what Gerry was describing. 
+The story was fantastic and it was clear from the tone of the article
+that the author did not believe a single word of what Gerry was describing. 
 
 I became enamored by the photos of Gerry , one of which was
 him standing looking very stern in front of a trampoline on its side, with the
 words ‘We are not alone. I met the real E.T’, painted on it. 
 
-The dozens of copy and pasted alien portraits that filled his
+The dozens of  alien portraits that filled his
 room implied an obsession that went far beyond this one abduction story. Was
 Gerry currently just sitting in Pallaskenry with a house covered in pictures of
 aliens? I emailed the Limerick Post straight away to inquire whether they had his
@@ -186,7 +186,7 @@ His use of Star Wars/Trek references throughout the story is
 a clear sign that we are working with a hoax. UFO stories where the experiencer
 is a sci-fi fan usually carry the tropes and clichés of the genre. “You must
 use the force” Who the fuck are we kidding here, Gerry? Real abductees sit
-meekly with symptoms of PTSD, barely able to speak about their experiences. Gerry
+meekly barely able to speak about their experiences. Gerry
 on the otherhand quotes George Lucas and presents himself as an alpha Pallaskenrian
 male who, due to his superior DNA and character, is not fazed by the presence
 of the E.T like the ‘others’. 
@@ -198,7 +198,7 @@ amongst older men.
 
 The use of  ‘light-years’ to measure time when it
 is a measure of distance and the ‘35th quadrant’ makes the story so unserious.
-This account, when examined by paranormal researchers of any calibre, can be
+This account, when examined by paranormal researchers of any caliber, can be
 recognised as a wimpish attempt at an abduction story that pulls from various
 dated sci-fi sources. 
 
