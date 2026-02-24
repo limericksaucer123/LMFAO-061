@@ -132,8 +132,8 @@ ovoid eyes boomed in his brain. He dropped the phone.
 \- credit Limerick Post
 
 I first became aware of this story 2 years ago
-when researching whether there was any UFO activity in or around Limerick City.
-The first 5 links were articles relating to supposed ‘alien sightings’ in the
+when researching UFO activity in or around Limerick City.
+The first 5 links on Google were articles relating to supposed ‘alien sightings’ in the
 north side of Limerick city. A review of each link found that the supposed
 sightings were, in fact a light show rehearsal at Thomond Park.
 
@@ -148,7 +148,7 @@ The article contained the story of 61 year old retired
 carpenter Gerry Battles and his abduction by extra terrestrials in 2001.
 
 The story was fantastic and it was clear from the tone of the article
-that the author was not taking Gerrys story seriously. Most websites covering the story used silly stock images and cliche sci-fi jargon. 
+that the author was not taking Gerry's story seriously. Most websites covering the story used silly stock images and cliché sci-fi jargon. 
 
 ![](/images/amazing-photo-of-gerry.jpg)
 
@@ -158,14 +158,13 @@ I became enamored by the photos of Gerry , one of which was
 him standing looking very stern in front of a trampoline on its side, with the
 words ‘We are not alone. I met the real E.T’, painted on it. 
 
-The dozens of  alien portraits that filled his
-room implied an obsession that went far beyond this one abduction story. Was
-Gerry currently just sitting in Pallaskenry with a house covered in pictures of
+The dozens of  alien portraits that covered his home implied an obsession that went far beyond this one article. Was
+Gerry currently just sitting in Pallaskenry with a house covered in paintings of
 aliens? I emailed the Limerick Post straight away to inquire whether they had his
 contact details. For months I got no reply, so I tried again but this time I rang
 their office. The person who answered the phone had no idea what the story was
 and said that the author was out on lunch. I emailed several times and rang
-back on different days, but  I never got
+back on different days, but I never got
 any answers. Eventually I think the Post got sick of emailing and replied with
 some terrible news.
 
