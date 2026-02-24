@@ -65,6 +65,8 @@ creature and as he replied, **“No, I am not. Should I be?”**
 
 ![](/images/gerry-with-trampoline.jpg)
 
+\- credit Limerick Post
+
 The alien's expression did not change as they stood in
 silence until its voice filled his head once again, **“where would you like to
 go?”**
@@ -127,6 +129,8 @@ ovoid eyes boomed in his brain. He dropped the phone.
 
 ![](/images/happy-gerry-with-painting.jpg)
 
+\- credit Limerick Post
+
 I first became aware of this story 2 years ago
 when researching whether there was any UFO activity in or around Limerick City.
 The first 5 links were articles relating to supposed ‘alien sightings’ in the
@@ -135,14 +139,20 @@ sightings were, in fact a light show rehearsal at Thomond Park.
 
 ![](/images/alien-sightings-limerick.png)
 
+\- credit Limerick Leader
+
 Further down was a Limerick Post article titled ‘Close
 Encounters of the County Limerick kind’. 
 
 The article contained the story of 61 year old retired
-carpenter Gerry Battles and his supposed abduction by extra terrestrials in 2001.
+carpenter Gerry Battles and his abduction by extra terrestrials in 2001.
 
 The story was fantastic and it was clear from the tone of the article
-that the author did not believe a single word of what Gerry was describing. 
+that the author was not taking Gerrys story seriously. Most websites covering the story used silly stock images and cliche sci-fi jargon. 
+
+![](/images/amazing-photo-of-gerry.jpg)
+
+\- Amazing photo by the Irish Mirror 
 
 I became enamored by the photos of Gerry , one of which was
 him standing looking very stern in front of a trampoline on its side, with the
@@ -176,14 +186,13 @@ no way to know how long Gerry has been gone from the area.
 
 This obsession might lead you to believe that we take the
 story of Gerry battles very serious , it is quite the opposite. There is no
-doubt in our mind that this man is absolutely 100% lying. One of LMFAOs guiding
+doubt in our mind that this man is lying. One of LMFAOs guiding
 principles is that we will believe your story, but that does not mean we are
 going to guzzle down any slop that is presented. We are not working with much
-activity in the Limerick area, so anything that presents itself must be covered,
-no matter how silly. 
+activity in the Limerick area, so anything that presents itself must be covered.
 
 His use of Star Wars/Trek references throughout the story is
-a clear sign that we are working with a hoax. UFO stories where the experiencer
+an indicator that we are working with a hoax. UFO stories where the experiencer
 is a sci-fi fan usually carry the tropes and clichés of the genre. “You must
 use the force” Who the fuck are we kidding here, Gerry? Real abductees sit
 meekly barely able to speak about their experiences. Gerry
@@ -209,7 +218,7 @@ or fame; perhaps he truly does believe he had an experience. As with all experie
 of high strangeness it goes back to ‘I know what I saw’. Even if he
 hallucinated the whole event due to two pints of Guinness, is it not real to
 him? Perhaps these aliens aren't visitors from another galaxy, perhaps they are
-higher beings that present themselves within your brain in a form that you can understand.
+higher beings that presented themselves within his brain in a form that he could understand. 
 Maybe the experience mingled with his years of sci-fi digestion, the brain
 protecting itself from collapse through familiar imagery. This almost could be
 considered a viable theory, but then you read a top-tier quote from Gerry like
@@ -218,9 +227,9 @@ perfect cloaking device to keep their universe hidden from our own.”
 
 ![](/images/gerry-with-strange-device.jpg)
 
-I would like badly to speak with Gerry. The imagery of his
+We would like badly to speak with Gerry. The imagery of his
 house and garden covered in hand-painted pictures of aliens in Limerick is so
-amazing, I am heartbroken that I have missed my chance. 
+amazing, LMFAO is heartbroken that we have missed our chance. 
 
 If any reader is from Pallaskenry, has family there or knows
 someone from there, please quiz them on Gerry. He has grandchildren out there;
@@ -232,6 +241,4 @@ in contact with him, please email [Limericksaucer123@Gmail.com](mailto:Limericks
 
 ![](/images/gerry-outside-with-oavement.jpg)
 
-![](/images/amazing-photo-of-gerry.jpg)
-
-Amazing photo by the Irish Mirror
+\- credit The Daily Mail
