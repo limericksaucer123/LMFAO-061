@@ -65,7 +65,7 @@ creature and as he replied, **“No, I am not. Should I be?”**
 
 ![](/images/gerry-with-trampoline.jpg)
 
-\- credit Limerick Post
+###### \- credit Limerick Post
 
 The alien's expression did not change as they stood in
 silence until its voice filled his head once again, **“where would you like to
@@ -129,7 +129,7 @@ ovoid eyes boomed in his brain. He dropped the phone.
 
 ![](/images/happy-gerry-with-painting.jpg)
 
-\- credit Limerick Post
+###### \- credit Limerick Post
 
 I first became aware of this story 2 years ago
 when researching UFO activity in or around Limerick City.
@@ -152,7 +152,7 @@ that the author was not taking Gerry's story seriously. Most websites covering t
 
 ![](/images/amazing-photo-of-gerry.jpg)
 
-\- Amazing photo by the Irish Mirror 
+###### \- Amazing photo by the Irish Mirror 
 
 I became enamored by the photos of Gerry , one of which was
 him standing looking very stern in front of a trampoline on its side, with the
@@ -226,7 +226,7 @@ perfect cloaking device to keep their universe hidden from our own.”
 
 ![](/images/gerry-with-strange-device.jpg)
 
-\- credit The Irish Mirror
+###### \- credit The Irish Mirror
 
 We would like badly to speak with Gerry. The imagery of his
 house and garden covered in hand-painted pictures of aliens in Limerick is so
@@ -242,4 +242,4 @@ in contact with him, please email [Limericksaucer123@Gmail.com](mailto:Limericks
 
 ![](/images/gerry-outside-with-oavement.jpg)
 
-\- credit The Daily Mail
+###### \- credit The Daily Mail
