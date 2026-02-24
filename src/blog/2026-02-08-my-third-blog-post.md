@@ -54,22 +54,22 @@ the centre of 360 degree viewing deck.
 > big he was or even if he had arms or legs, all I remember is his big cone head
 > and his beautiful, ginormous eyes. They were jet black, almost like mirrors.”**
 
-It's big, beautiful, wet head reflected the soft throbbing
+It's big beautiful, wet head reflected the soft throbbing
 light of the room as his mind was filled with a gentle voice.
 
 **“He spoke to me through telepathy and said: ‘You are not
 terrified like the others.’**
 
 Gerry's superior Pallaskenrian DNA clearly impressed the
-creature and as he replied, **“No, I am not. Should I be?”.**
+creature and as he replied, **“No, I am not. Should I be?”**
 
 ![](/images/gerry-with-trampoline.jpg)
 
 The alien's expression did not change as they stood in
 silence until its voice filled his head once again, **“where would you like to
-go?”.** 
+go?”**
 
-**“The North Pole”** he replied. 
+**“The North Pole”,** he replied. 
 
 > “The next thing the extraterrestrial gave a command, and in
 > an instant we were at the North Pole. I was in awe. I remember thinking of that
@@ -170,7 +170,7 @@ searched the comment sections on posts relating to UFOs in Ireland but have foun
 no presence of Gerry anywhere. He is still alive as there is no mention of his
 death on the glorious source that is RIP.ie. 
 
-I suppose I could travel to Kildimo and question the
+I suppose we could travel to Kildimo and question the
 bartenders in the Seven Sisters but this was nearly a decade ago, and there is
 no way to know how long Gerry has been gone from the area. 
 
@@ -187,7 +187,7 @@ a clear sign that we are working with a hoax. UFO stories where the experiencer
 is a sci-fi fan usually carry the tropes and clichés of the genre. “You must
 use the force” Who the fuck are we kidding here, Gerry? Real abductees sit
 meekly barely able to speak about their experiences. Gerry
-on the otherhand quotes George Lucas and presents himself as an alpha Pallaskenrian
+on the other hand quotes George Lucas and presents himself as an alpha Pallaskenrian
 male who, due to his superior DNA and character, is not fazed by the presence
 of the E.T like the ‘others’. 
 
