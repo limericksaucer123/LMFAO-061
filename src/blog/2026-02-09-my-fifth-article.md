@@ -1,5 +1,6 @@
 ---
-title: "Holy Wells of Ireland : Our glorious water holes"
+title: "The Holy Wells of Ireland : Our glorious water holes and the launch of
+  'Well of the Week'"
 author: Mark Cusack
 date: 2026-02-25T23:30:00.000+00:00
 tags:
