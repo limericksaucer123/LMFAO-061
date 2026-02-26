@@ -2,7 +2,7 @@
 layout: blog
 title: "'YOU NOW' poetry submission by Anomynous "
 author: "Anomynous "
-date: 2026-02-26T19:33:00.000+00:00
+date: 2026-02-26T20:02:00.000+00:00
 tags:
   - post
 image: /images/2_26_2026-7_43_15-pm-edited_20260226_194356_0000.png
