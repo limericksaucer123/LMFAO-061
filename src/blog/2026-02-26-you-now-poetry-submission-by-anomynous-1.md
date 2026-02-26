@@ -9,7 +9,7 @@ tags:
 image: /images/screenshot_20260226_193121_gallery.jpg
 description: Poetry submission
 ---
-SO so what this music makes me feel, it will not attribute to my soul. This is Dublin's easiestway to relax on the weekend. Feel the groove, give bones to your body. Feel it! 
+SO so what this music makes me feel, i will not attribute to my soul. This is Dublin's easiest way to relax on the weekend. Feel the groove, give bones to your body. Feel it! 
 
 Turkey is a country, but Turkey is also a bird. 
 
@@ -26,8 +26,6 @@ Now, light to me right now is a series of colours, some are vibrating, some are 
 Life to me is like a series of colours. If the whole world was dancing I would still dance with you. Life is vibrating and flashy and a series of colours.
 
 OH the green green fields of Mayo and the oranges on the tree.
-
-
 
 \---------------------------
 
