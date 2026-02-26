@@ -2,10 +2,10 @@
 layout: blog
 title: "'YOU NOW' poetry submission by Anomynous "
 author: "Anomynous "
-date: 2026-02-26T19:31:00.000+00:00
+date: 2026-02-26T19:33:00.000+00:00
 tags:
   - post
-image: /images/1000119250.jpg
+image: /images/screenshot_20260226_193121_gallery.jpg
 description: Poetry submission
 ---
 SO so what this music makes me feel, it will not attribute to my soul. This is Dublin's easiestway to relax on the weekend. Feel the groove, give bones to your body. Feel it! 
