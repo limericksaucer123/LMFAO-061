@@ -5,7 +5,7 @@ author: "Anomynous "
 date: 2026-02-26T20:02:00.000+00:00
 tags:
   - post
-image: /images/2_26_2026-7_43_15-pm-edited_20260226_194356_0000.png
+image: /images/lmfaobig.jpg
 description: Poetry submission
 ---
 SO so what this music makes me feel, it will not attribute to my soul. This is Dublin's easiestway to relax on the weekend. Feel the groove, give bones to your body. Feel it! 
