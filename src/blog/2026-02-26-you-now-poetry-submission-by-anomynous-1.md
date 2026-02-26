@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: article
 title: "'YOU NOW' poetry submission by Anomynous "
 author: "Anomynous "
 date: 2026-02-26T20:02:00.000+00:00
