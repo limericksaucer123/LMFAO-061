@@ -19,9 +19,9 @@ This is what I mean! You just have to feel it.
 
 Girl, because I wanted to type the letter G.
 
-Man, what is the fucking point of computers, dude, they have little tabs and metal coldpedals that you tap away your flesh and bone on, your rabbit videos on YouTube is physically the stone and rock of existence.
+Man, what is the fucking point of computers, dude, they have little tabs and metal cold pedals that you tap away your flesh and bone on, your rabbit videos on YouTube is physically the stone and rock of existence.
 
-Now, light to me right now is a series of colours, some are vibrating, some are bright, andnow I am waking up to kiss you and nobody stares, so far, so long, from the stars. 
+Now, light to me right now is a series of colours, some are vibrating, some are bright, and now I am waking up to kiss you and nobody stares, so far, so long, from the stars. 
 
 Life to me is like a series of colours. If the whole world was dancing I would still dance with you. Life is vibrating and flashy and a series of colours.
 
