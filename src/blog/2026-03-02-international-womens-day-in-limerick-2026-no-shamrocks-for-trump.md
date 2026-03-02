@@ -6,7 +6,7 @@ date: 2026-03-02T17:44:00.000+00:00
 tags:
   - post
   - featured
-image: /images/rosa-poster-1.jpg
+image: /images/rosa-poster-1-resized.jpg
 description: international womens day
 ---
 International Womens Day (IWD) in Limerick is being preceded by several events organised by the Limerick branch of the socialist-feminist group ROSA.
@@ -25,11 +25,11 @@ International Women's Day has been celebrating women's achievements and raising 
 
 “It is important to understand structurally why a lot of these issues are persisting, for example, the rise of fascism in America, Europe and Ireland specifically. Why there is a lot of anti-feminism , why there is rises in domestic abuse and violence against women.” 
 
-![](/images/rosa-poster-2.jpg)
+![](/images/resized-2-1-.jpg)
 
 The events begin on Saturday, 7th March, with a poster-making workshop in The Wickham Tap at 6 pm. This workshop is in preparation for the stand-out taking place on Bedford Row at 1 pm on Sunday 8th March. 
 
-![](/images/rosa-poster-3.jpg)
+![](/images/resized-2-2-.jpg)
 
 The stand-out carries the slogan ‘No Shamrocks for Trump’, a response to Taoiseach Michael Martin's plan to meet America's supreme rapist and alleged paedophile in the White House on St Patrick’s Day. 
 
@@ -41,12 +41,14 @@ Seth Collins of Wombat Promotions has assembled 3 female-fronted bands for this 
 
 “I also have the aim of showing that a show full of female fronted bands can be just as exciting and just as good as a lineup full of male fronted bands- and that something like this should be the norm and that there shouldn’t really be a big deal made about a lineup of female fronted acts- this should be just as normal as any other show.”
 
-![](/images/pobail-2.jpg)
+![](/images/pobail-resized.jpg)
 
 The concert is followed by a public discussion on AI and 
 misogyny taking place at Conradh Na Gaelige on Thursday March 12th, 7pm. 
 
 ROSA cite several abhorrent cases of gender violence from around the country over the past number of weeks as the main reason why people should show up for this year's stand-out. 
+
+![](/images/resized-5.jpg)
 
 “This week has been yet another horrific week for women & girls. TD Ruth Coppinger has raised the case of the abhorrent rape & image based sexual abuse of a medical student in UCD, a Limerick man & ex-soldier received no jail time despite being found guilty of possessing 'depraved' images of the sexual abuse of children including of a baby, the details of a sustained & horrendous attack by a Cork man on his then partner were revealed in court, survivors of Bessborough Mother & Baby Home have been devastated by the approved planning permission for apartments at the former home by the local council, and in the last couple of days CCTV footage has been released of an appalling attack by a man on a woman in broad daylight on the street.”
 
