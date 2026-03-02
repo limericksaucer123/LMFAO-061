@@ -33,7 +33,7 @@ The events begin on **Saturday, 7th March, with a poster-making workshop in The 
 
 The stand-out carries the slogan ‘No Shamrocks for Trump’, a response to Taoiseach Michael Martin's plan to meet America's supreme rapist and alleged paedophile in the White House on St Patrick’s Day. 
 
-**The stand-out is followed by ‘Pobail II’, a fundraiser concert taking place in the Record Room at 7.30pm. ‘Pobail’,** meaning community in Irish, is a community-based music festival with the goal of raising money for various charities. Its first iteration featured performances from bands such as Shark School and Mother of Pearl and was in aid of Palestine. 
+**The stand-out is followed by ‘Pobail II’, a fundraiser concert taking place in the Record Room at 7.30pm.** ‘Pobail’, meaning community in Irish, is a community-based music festival with the goal of raising money for various charities. Its first iteration featured performances from bands such as Shark School and Mother of Pearl and was in aid of Palestine. 
 
 Seth Collins of Wombat Promotions has assembled 3 female-fronted bands for this concert: Babyrat from Cork, Avenue 68 from Dublin and Gorilla Gorilla from Cork. Tickets are donation based and can be bought on the door. 
 
