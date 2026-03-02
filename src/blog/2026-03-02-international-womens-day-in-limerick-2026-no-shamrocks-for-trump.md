@@ -17,7 +17,7 @@ released an itinerary of events celebrating International Womens Day.
 
 Molly McNamara, a member of ROSA, emphasized the importance of using our privilege to ‘stand up and stand out’ in solidarity with victims of misogyny this International Womens day. 
 
-International Women's Day has been celebrating women's achievements and raising awareness around discrimination for over 100 years.
+International Women's Day takes place on Sunday March 8th and has been celebrating women's achievements and raising awareness around discrimination for over 100 years.
 
  Despite IWD's long history, many of the issues faced at the beginning are still affecting women today.
 
