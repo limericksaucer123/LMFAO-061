@@ -9,15 +9,7 @@ tags:
 image: /images/rosa-poster-1.jpg
 description: international womens day
 ---
-
-
 International Womens Day (IWD) in Limerick is being preceded by several events organised by the Limerick branch of the socialist-feminist group ROSA.
-
-
-
-
-
-
 
 ROSA, a
 socialist feminist movement founded in 2013 by members of the Socialist Party, has
@@ -49,7 +41,7 @@ Seth Collins of Wombat Promotions has assembled 3 female-fronted bands for this 
 
 “I also have the aim of showing that a show full of female fronted bands can be just as exciting and just as good as a lineup full of male fronted bands- and that something like this should be the norm and that there shouldn’t really be a big deal made about a lineup of female fronted acts- this should be just as normal as any other show.”
 
-![](/images/rosa-poster-4-pobal.jpg)
+![](/images/pobail-2.jpg)
 
 The concert is followed by a public discussion on AI and 
 misogyny taking place at Conradh Na Gaelige on Thursday March 12th, 7pm. 
