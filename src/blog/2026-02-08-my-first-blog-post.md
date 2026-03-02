@@ -4,7 +4,6 @@ author: Mark 'the bull' Cusack
 date: 2026-02-10T21:10:00.000+00:00
 tags:
   - post
-  - featured
 image: /images/lmfaobig.jpg
 description: |
   The breaking of a new dawn on the wasteland that is Limerick journalism
