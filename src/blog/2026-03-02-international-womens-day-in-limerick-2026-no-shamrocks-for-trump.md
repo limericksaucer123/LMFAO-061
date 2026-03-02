@@ -52,7 +52,7 @@ ROSA cite several abhorrent cases of gender violence from around the country ove
 
 > “This week has been yet another horrific week for women & girls. TD Ruth Coppinger has raised the case of the abhorrent rape & image based sexual abuse of a medical student in UCD, a Limerick man & ex-soldier received no jail time despite being found guilty of possessing 'depraved' images of the sexual abuse of children including of a baby, the details of a sustained & horrendous attack by a Cork man on his then partner were revealed in court, survivors of Bessborough Mother & Baby Home have been devastated by the approved planning permission for apartments at the former home by the local council, and in the last couple of days CCTV footage has been released of an appalling attack by a man on a woman in broad daylight on the street.”
 
-Molly McNamara in the shadow of these attacks on women, asserts that it is ‘super important to show solidarity, to stand up and to do something good.’
+Molly McNamara in the wake of these attacks on women, asserts that it is ‘super important to show solidarity, to stand up and to do something good.’
 
 More details can be found at ***@rosalimerick*** on Instagram. 
 
