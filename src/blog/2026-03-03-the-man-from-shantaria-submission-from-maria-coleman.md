@@ -6,7 +6,7 @@ date: 2026-03-03T14:03:00.000+00:00
 tags:
   - post
   - featured
-image: /images/the-man-from-shantaria-submission-from-maria-coleman.png
+image: /images/the-man-from-shantaria-submission-from-maria-coleman-1-.png
 description: submission from Maria Coleman
 ---
 
