@@ -1,5 +1,3 @@
----
-layout: article.njk
 title: L.M.F.A.O 061 - A NEW FRONTIER IN LIMERICK JOURNALISM
 author: Mark 'the bull' Cusack
 date: 2026-02-10T21:10:00.000+00:00
