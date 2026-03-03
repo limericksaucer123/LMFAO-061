@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The man from Shantaria - submission from Maria Coleman
+title: The Man From Shantaria - submission from Maria Coleman
 author: Maria Coleman
 date: 2026-03-03T14:03:00.000+00:00
 tags:
