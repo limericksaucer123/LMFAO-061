@@ -4,7 +4,6 @@ author: Mark Cusack
 date: 2026-02-11T20:34:00.000+00:00
 tags:
   - post
-  - featured
 image: /images/pharma-palestine-fundraiser-resized-now.jpg
 description: "John Francis Flynn set to blow-up Pharmacia Friday night "
 ---
