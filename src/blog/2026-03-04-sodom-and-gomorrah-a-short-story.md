@@ -9,9 +9,6 @@ tags:
 image: /images/eoin-ryan-sstory-cover.jpg
 description: short story
 ---
-
-
-
 ‘I’ll have a full Irish, with an extra basket of toast and an Eggs Benedict on the side,’ spluttered Uncle Flannery, his fingers tapping together excitedly. ‘Oh, and a cup of coffee’, he remembered, his face lighting up. ‘Plenty of sugar.’ Seamus could never quite understand his uncle’s insatiable greed: If there was food at the function, Flannery was bound to attend. Most invitations from him also involved food and the consumption of such in some way, shape or form. This morning was no different as they sat in the centre of a bustling café just off Grafton’s Street. Seamus hadn’t caught the name on the way in. 
 
 He looked at his uncle with a mix of disbelief and pity before turning to the waitress. ‘Water’s fine.’ 
@@ -52,8 +49,6 @@ Flannery scoffed and gripped his braces, delighted with himself. ‘You ought to
 
 The waitress returned, balancing Flannery’s mammoth order with commendable skill. She laid the feast in front of him, and immediately the sparkle returned to his eyes. He clasped his hands together as if to pray. ‘Big things!’ 
 
- 
-
 \--------------------------------------------------------
 
 There was a fierce nip in the air as Seamus waited outside his apartment building for Flannery to arrive. Usually, this suited him just fine as he could blame the ‘illicit vapour of unknown origin’ that surrounded him on the chill, but he was in a sour enough mood as it stood, and he had no joint to relive such a temperament. Blowing into his hands and rubbing them together, Seamus waited and waited. 
@@ -66,17 +61,39 @@ Seamus gave a petite little wave to the driver's mirror, ‘Hello uncle!’ 
 
 ‘Don’t you be getting smart!’ Flannery snapped before attempting to compose himself. ‘Fix yourself up’ he grumbled. ‘We’ll be there in 20 minutes.’ 
 
-Then he folded his arms, twisted away towards the window and sulked for the rest of the trip. This suited Seamus perfectly. He sat back, relaxed and watched the streets of Dublin awkwardly jolt around him. ‘Malahide’, he pondered, ‘it’s mad that people live there.’                                                Then he closed his eyes. 
+Then he folded his arms, twisted away towards the window and sulked for the rest of the trip. This suited Seamus perfectly. He sat back, relaxed and watched the streets of Dublin awkwardly jolt around him. ‘Malahide’, he pondered, ‘it’s mad that people live there.’                                                
 
- 
+Then he closed his eyes. 
 
-> ‘Seamus...’                                                                                                                                                              Ah Mam, would you fuck off and let me stay home from school?                                                                  ‘Seamus.......’                                                                                                                                                        For fuck sake, I’ve told you before I don’t like AC/DC!                                                                        ‘Seamus...........’                                                                                                                                                     Oh Jesus Sheila would you stop, that tickles.                                                                                                      ‘SEAMUS!!!’ 
+‘Seamus...’                      
+
+                                                                                                                                      
+
+Ah Mam, would you fuck off and let me stay home from   school?
+
+‘Seamus.......’    
+
+
+
+                                                                                                                                                    For fuck sake, I’ve told you before I don’t like AC/DC!         
+
+                                                               ‘Seamus...........’                                                                                                                                                     
+
+Oh Jesus Sheila would you stop, that tickles.                                                                                                      
+
+'SEAMUS!!!’ 
 
 Suddenly the fear of God was struck into the young man as he burst up from his car seat, opened his eyes and saw the fiery tomato that was Flannery, about to blow. 
 
 ‘Jesus Seamus, would you get up to fuck’ he said, dragging him out of the car and shaking the life out of him. The poor bastard could only groan wearily in response. 
 
-‘Listen here boy’ the uncle snarled. For whatever reason, this snapped Seamus awake. While prone to passionate displays, this level of sincere anger and aggression had never before been seen from Flannery. He would never admit it, but in that moment, Seamus gained a new emotion that he associated with his uncle.                                                                                                                                 Fear.  
+‘Listen here boy’ the uncle snarled. For whatever reason, this snapped Seamus awake. While prone to passionate displays, this level of sincere anger and aggression had never before been seen from Flannery. He would never admit it, but in that moment, Seamus gained a new emotion that he associated with his uncle.                 
+
+
+
+                                                                                                                
+
+Fear.  
 
 ‘You had better not embarrass me in front of Mr Mazur tonight.’ He was practically quivering with rage. ‘Because if you do, I’ll take a tin of beans, shove them sideways up your arse and make you walk all the way back to Tallaght you filthy little gowl.’ 
 
@@ -86,7 +103,11 @@ There lay a moment of silence between the two following this outburst.  
 
 Seamus gulped; a reaction so goofy that he would have laughed had he not been in this situation himself. ‘Yes sir.’ 
 
-This sudden recognition of authority returned Flannery to his reasonable humour, and he patted his nephew on the shoulders. ‘Good lad.’                                                                                                               ‘Now.’ he puffed, gripping the lapels of his suit jacket and wiggling gleefully. ‘Let’s step inside, shall we?’  
+This sudden recognition of authority returned Flannery to his reasonable humour, and he patted his nephew on the shoulders.
+
+ ‘Good lad.’                                                                                                              
+
+ ‘Now.’ he puffed, gripping the lapels of his suit jacket and wiggling gleefully. ‘Let’s step inside, shall we?’  
 
 Seamus took one look at the manor house before him. You couldn’t even imagine a more foreboding building. There it stood, morose and handsome, an intensely gothic structure that practically reeked of the stink of human sin. A bubble formed in his throat, suddenly regretting the ‘for the laugh’ mentality that he rolled through life with, as he made his way up the cold stone steps to the huge wooden door, about as tall as Flannery was wide. And I say that with only a shred of hyperbole. 
 
@@ -158,25 +179,23 @@ The piercing eyes of Sylvek Mazur woke Seamus from his coma, the gaze of the gho
 
 Seamus began to run. 
 
- 
-
- 
-
 The halls of the manor had transformed completely as Seamus bolted through them, the party of savages hot on his heels. The walls throbbed vibrant colours and spat fluid shapes, a far cry from the musky, Georgian stupor of a mere 15 minutes prior. Seamus felt like Alice falling down a kaleidoscopic looking glass, the steady stream of the hall swirling around him. Maybe this hall was the key to infinite knowledge money could not buy? Maybe it was the of the result of the most potent LSD that money could buy? Whichever it was, Seamus didn’t care. Exhaustion and insanity clawed at him, yet still he ran, overpowered by the terror of spending an eternity completing crosswords with Flannery in hell’s kitchen. At that moment, he would have done anything to have prevented that for another few months at least. 
 
 The door of the manor had been miraculously left open, glowing like a disco ball. Seamus could practically smell Kool and the Gang as he leapt through, like a moth entering the bright light, and onto the pebbled stones of the manor garden. The cool night air swept around him as he knelt on the ground.  
 
-The cannibals encroaching on him like a violent sandstorm, Seamus raised his hands to his face, let out one final cry                                                                                                                                                         and everything went black. 
+The cannibals encroaching on him like a violent sandstorm, 
 
- 
+Seamus raised his hands to his face, let out one final cry        
+
+                                                                                                                                               
+
+and everything went black. 
 
 > Which, of course, is exactly what happens when one closes their eyes. 
 >
 > Especially tightly, in the face of death. 
 >
 > It’s mad how we all die a little bit when we shut our eyes. 
-
- 
 
 Seamus considered all of this as he slowly peeked out from behind his fingers and saw the cannibals, once eager and youthful, reeling in shock and disgust before his very eyes. All semblance of malicious joy and monstrous elation had drained from their faces as they peered down at Seamus’ grubby mits.  
 
