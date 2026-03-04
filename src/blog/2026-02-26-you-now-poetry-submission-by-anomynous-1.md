@@ -5,7 +5,7 @@ author: "Anomynous "
 date: 2026-02-26T20:02:00.000+00:00
 tags:
   - post
-  - featured
+  - ""
 image: /images/screenshot_20260226_193121_gallery.jpg
 description: Poetry submission
 ---
