@@ -7,7 +7,9 @@ tags:
   - post
   - featured
 image: /images/3-statues.png
+
 description: .
+---
 
 
 *\*Information gathered from Amanda Clark and the Heritage council. Photos are our own unless specified\** 
