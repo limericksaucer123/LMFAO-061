@@ -8,7 +8,6 @@ tags:
   - featured
 image: /images/3-statues.png
 description: .
-layout: base.njk
 
 
 *\*Information gathered from Amanda Clark and the Heritage council. Photos are our own unless specified\** 
