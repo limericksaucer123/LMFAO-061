@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Sodom and Gomorrah - a short story
+title: "Sodom and Gomorrah - a short story by Fred Russin "
 author: Fred Russin
 date: 2026-03-04T16:44:00.000+00:00
 tags:
