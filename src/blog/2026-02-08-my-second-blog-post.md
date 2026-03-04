@@ -7,7 +7,7 @@ tags:
   - featured
 image: /images/20260213_225325.jpg
 description: .
----
+layout: base.njk
 Pharmacia was packed tonight for the fundraiser in support of the Shannon 3. Every beautiful person in Limerick was out in their finest furs. See if you find yourself in the pictures below. 
 
 Next time you are partying look out for one of our 17 photographers for a chance to be featured. 

@@ -6,7 +6,7 @@ tags:
   - post
 image: /images/pharma-palestine-fundraiser-resized-now.jpg
 description: "John Francis Flynn set to blow-up Pharmacia Friday night "
----
+layout: base.njk
 ## A fundraiser gig in support of the ‘Shannon Three’ is taking place this Friday at Pharmacia.
 
 Ticket sales go towards the Activist Solidarity Fund, which supports those on trial for anti-imperialist action at Shannon Airport in solidarity with Palestine. 

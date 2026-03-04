@@ -7,7 +7,7 @@ tags:
   - featured
 image: /images/gery-inside-with-painting.jpg
 description: .
----
+layout: base.njk
 What
 follows is an account of the alien abduction of Gerry Battles in Pallaskenry,
 Limerick as told to the Limerick Post in February 2016. All quotes, details and
