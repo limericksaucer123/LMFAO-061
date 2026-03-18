@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Agents Of Chaos - A poem by Molly McNamara
+title: Agent Of Chaos - A poem by Molly McNamara
 author: Molly McNamara
 date: 2026-03-18T21:41:00.000+00:00
 tags:
