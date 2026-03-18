@@ -42,7 +42,7 @@ description: poem
 >
 > Before I was tricked
 >
->
+> \-
 >
 > I drifted through the cosmos 
 >
@@ -150,7 +150,7 @@ description: poem
 >
 > You need to be saved 
 >
->
+> \-
 >
 > The nothing is cold
 >
@@ -256,7 +256,7 @@ description: poem
 >
 > But you have more in store 
 >
->
+> \-
 >
 > Suddenly im in nature
 >
@@ -354,7 +354,7 @@ description: poem
 >
 > To let my body rot 
 >
->
+> \-
 >
 > You won’t feed on me 
 >
