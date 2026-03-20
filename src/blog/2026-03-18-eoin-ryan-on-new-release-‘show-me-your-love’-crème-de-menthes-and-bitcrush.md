@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Eoin Ryan on new release ‘Show Me Your Love’, Crème de menthes  and Bitcrush
+title: Eoin Ryan on new release ‘Show You My Love’, Crème de menthes  and Bitcrush
 author: Mark Cusack
 date: 2026-03-18T20:45:00.000+00:00
 tags:
