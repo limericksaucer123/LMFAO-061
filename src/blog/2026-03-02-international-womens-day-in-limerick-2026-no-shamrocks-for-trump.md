@@ -5,7 +5,6 @@ author: "Mark Cusack "
 date: 2026-03-02T17:44:00.000+00:00
 tags:
   - post
-  - featured
 image: /images/rosa-poster-1-resized.jpg
 description: international womens day
 ---
