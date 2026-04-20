@@ -56,8 +56,6 @@ Physical or digital copies of DIY UFO publications from Ireland and Cyprus are i
 
 ![](/images/bufora.png)
 
-
-
 *BUFORA Ireland Branch Journal - 1993* 
 
 The subculture has mostly died out in Ireland with many of its key members retiring or passing on, "There's younger people into it but there's not the same infrastructure as before. I think it sort of died out when smartphones became a thing. A lot of their old websites are gone now.”
@@ -68,8 +66,8 @@ The reports these groups investigated were never really concluded, new photos or
 
 “I would like to do more with this but I think it'll be quite different. It will probably be some sort of art work that can go into a gallery or art setting. This publication is finished but this theme has been something I've been tipping away at for years.”
 
-‘A Phenomenon Only Slightly Strange’ was written and designed by Coílín O’Connell and published by Mirror Lamp Press. A free digital copy of the zine can be found at ***[www.mirrorlamppress.com](www.mirrorlamppress.com).*** Physical copies printed on luxury satin paper can be purchased from The Library Project or from O’Connell directly at @[c_o_connell on Instagram. 
+‘A Phenomenon Only Slightly Strange’ was written and designed by Coílín O’Connell and published by Mirror Lamp Press. A free digital copy of the zine can be found at ***[www.mirrorlamppress.com](www.mirrorlamppress.com).*** Physical copies printed on luxury satin paper can be purchased from The Library Project or from O’Connell directly at [@c_o_connell](https://www.instagram.com/c_o_connell/) on Instagram. 
 
-](https://www.instagram.com/c_o_connell/)Telegram Channel of Cóilín O’Connell ***[here](https://t.me/+K4cpoS8O0QkyNTI0)***
+Telegram Channel of Cóilín O’Connell ***[here](https://t.me/+K4cpoS8O0QkyNTI0)***
 
 ![](/images/20260420_182605.jpg)
