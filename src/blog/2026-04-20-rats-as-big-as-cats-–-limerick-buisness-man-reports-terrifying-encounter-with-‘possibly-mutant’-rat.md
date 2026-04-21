@@ -36,7 +36,7 @@ Please LMFAO061, can you help us?
 
 We will answer your call, Limernaut. First, let us explore the feasibility of a giant rat cryptid operating within Limerick city. We contacted a local plumber and sewer enthusiast, **Dermot Curtain of ‘Curtain & Sons’**, and quizzed him on his experiences with supernaturally rotund rodents.
 
-“Ya Rats in Limerick as big as cats, myself and youngest son **Cú Chulainn**, were unblocking a toilet there in O’Mahony’s bookshop, and I'd say **a rat as big as a feckin' cat** came up out the bowl. It went loola round the bathroom, left the place covered in brown little skidmarks. Eventually, sure Cú Chulainn got his hands on the thing, and didn’t he squeeze it so hard that one of its eyes came out a bit. Thing was sitting there, one pupil bigger than the other, not moving a muscle. Eventually, sure rang WWF, PETA and the ISPCA, but none of them wanted it, so we put it back in and said nothing.”
+“Ya Rats in Limerick as big as cats, myself and youngest son **Cú Chulainn**, were unblocking a toilet there in Supermacs O'Connell street, and I'd say **a rat as big as a cat** came up out the bowl. It went loola round the bathroom, left the place covered in brown little skidmarks. Eventually, sure Cú Chulainn got his hands on the thing, and didn’t he squeeze it so hard that one of its eyes came out a bit. Thing was sitting there, one pupil bigger than the other, not moving a muscle. Eventually, sure rang WWF, PETA and the ISPCA, but none of them wanted it, so we put it back in and said nothing.”
 
 Curtain was visibly shaken after relaying the story to LMFAO investigators. He put us in touch with an electrician who repairs cables in the main sewer lines of Limerick City. 
 
@@ -48,7 +48,7 @@ Curtain was visibly shaken after relaying the story to LMFAO investigators. He p
 
 “Limerick rats are gentle things who have their fill eating poo, but there are these big posh Dublin rats walking down the mains to Limerick and eating their fill of our poo and things. And then there's nothing left for any of them, so they go into their cocoons for the winter and come up topside in summer as **big as cats** to eat out of the wheelie bins.”
 
-“You won't find this in the papers now. I heard this from my cousin, who knows Simon Harris, but it was a massive problem in Dublin a few years ago. Full babies, toddlers, men and Dunne's wheelie bins were disappearing all over the city. Dáil started locking its bins cause it caught **rats as big as cats** on the CCTV. They knew it would cause a situation down south with the less civilised people. They started the whole Return bottles scheme and said the homeless people would be digging through the bins, but really it was cause the rats would be coming up.”
+“You won't find this in the papers now. I heard this from my cousin, who knows Simon Harris, but it was a massive problem in Dublin a few years ago. Full babies, toddlers, men and Dunne's wheelie bins were disappearing all over the city. Dáil started locking its bins cause it caught **rats as big as cats** on the CCTV. They knew it would cause a situation down south with the less civilised people. They started the whole Return bottles scheme and said people would be digging through the bins, but really it was cause the rats would be coming up.”
 
 **“I fear what'll happen to the world if those rats get bigger than cats.”**
 
