@@ -9,17 +9,11 @@ tags:
 image: /images/betty-article-pic-1.jpg
 description: "BETTY "
 ---
-
-
 “There Is a UFO portal about 25 feet into the lake. A portal is a doorway of some description, and the way we look at it in ufology is that it is a portal to another dimension,” says Betty Meyler in the 2009 documentary ‘UFO’ by Pete Higgins. Higgins filmed Betty sitting in a small boat on Lough Key inCounty Roscommon. She sits bundled up in a large, striking red coat as she takes a crystal on a chain from her pocket and says, ‘When I'm over the portal, I am going to ask the question, ‘Where is the portal?’ And if it goes round and round, it’s a yes.”
 
 ![](/images/betty-article-pic-2.jpg)
 
-
-
 ## **Betty Using her pendulum to locate the UFO portalunder Lough Key**
-
-
 
 Betty Meyler was the president of the Boyle UFO Society of Ireland(UFOSI), a paranormal investigation group that boasted hundreds of members and held numerous conventions that attracted enthusiasts from all over the world. The presence of such an active organisation in a small rural town like Boyle is shocking to many, but in fact, Roscommon and Ireland as a whole ranked amongst the highest in Europe for UFO sightings in the early 2000s.
 
@@ -33,11 +27,7 @@ This sort of coverage is often not accurate, which makes it a herculean task to 
 
 ![](/images/betty-article-pic-3.png)
 
-
-
 ## **A small sample of Boyle UFO newspaper coverage – Irish Newspaper Archives**
-
- 
 
 Meyler's life story is far stranger than most of the UFO sightings she investigated. She was born in 1931 in India to English parents who ran an indigo plantation. Her family is described as ‘sort of imperial British’ and thus the origin of her ‘posh’ accent. Her parents were left destitute when the world discovered synthetic dyes, a development which saw the 17-year-old Betty leave to study in Scotland. Unknown to her parents, she went to London instead and met Donald Henderson, whom she married in Nigeria. The pair had three children and later fled Nigeria due to a civil war. They moved to the Channel Islands, where they ran a small hotel. Betty took flying lessons and obtained her pilot's license under the tutelage of an RAF officer, Jack Meyler, whom she took as her second husband. The pair visited Ireland and enjoyed Sligo so much that they bought the Rock House hotel on the shores of Lough Arrow. They ran the hotel together until both their relationship and business went south in1988. Betty moved to the nearby town of Boyle and, until her death, was firmly grounded in its social fabric. Meyler was involved in nearly every club intown: The Flower Club, Dowsing Association, Boyle Camera Club, River Development group, Chamber of Commerce, Lough Arrow Fishing Club and was even the chairperson of a medieval reenactment group. 
 
@@ -51,21 +41,13 @@ Meyler first became interested in UFOs when she read a Sunday Mirror article fro
 
 ![](/images/betty-article-pic-4.jpg)
 
-
-
 ## **The Sunday Mirror, September 21st, 1997 –courtesy of Pete Higgins**
-
-
 
 Despite Thornton's supposed celebrity in the paranormal world, there is little trace of him before or after the Mirror article. He surfaces several times in the Galway Advertiser from 1998-99, offering medium and clairvoyant services out of a “Psychic and Healing Centre” on William Street West. None of the holistic healers in the Galway area today can recall him. His name appears again in June 2000, when he was arrested for disturbing the peace outside his daughter's house, apparently convinced that her boyfriend, Thomas Cooney, was dragging her into an evil cult. We can presume that Thornton believed Cooney was a member of the ‘Cooneyites’ or the ‘Two-by-Twos’, an ‘itinerant evangelical group’ that travelled Ireland preaching and at the time held over 200 members. He passed away a year later, on Halloween night. Thornton is one of many strange rabbit holes that surround Betty Meyler. UFO researcher Carl Nally later said the Mirror “clumsily dropped the ball” using Thornton as a source.  
 
 ![](/images/betty-article-pic-5.jpg)
 
-
-
 ## **Mentions of Rory Thornton - Irish Newspaper Archives 1998-2000**
-
-
 
 Rory’s report was not the first time the story was in the news; the Roscommon Herald and the Mirror had published months earlier that there was some kind of aircraft crash in the mountains. The story grew legs, and within weeks, there were tales of a spaceship clipping treetops and black-suited men with foreign accents blocking public roads.
 
@@ -75,53 +57,27 @@ The pair presented their findings on 12th October in the Three Counties pub, a m
 
 ![](/images/betty-article-pic-6.png)
 
-
-
 ## **Oct 8th 1997, Roscommon Herald**
-
-
-
-
 
 In response, she founded the Western UFO Society, “a little society where we could talk, where nobody would laugh at anyone else.” Tales of the first meeting vary: in one version, the uptake was huge, and in another, she sat alone and appointed herself treasurer, secretary and president. Either way, the group's numbers steadily declined as “people were embarrassed about going up the steps to a meeting titled UFO Society.”
 
 That changed in February 1998 when Woman's Way magazine published a two-page feature on Betty, placing her story on the cover “with none other than Robbie Williams.”
 
- 
-
 ![](/images/betty-article-pic-7.png)
 
-
-
 ## Robbie and the Boyle UFOS – Women’s Way 1998 - 'UFO' documentary 2009
-
-
 
 “As soon as that paper hit the newsstands, I got phone calls from every radio station in the country.” She appeared on the Late Late Show and on RTÉs Nationwide, which covered the society’s Skywatch outings where the group tested their formula for predicting UFO sightings. The formula they used was thought up by Eamonn Ansbro, the astromoner who travelled to Boyle to interview the Curlew crash. Ansbro, after investigating the crash, moved full-time to Boyle and today operates an observatory behind his house. Ansbro, alongside several of his contemporaries, began mapping 80,000 archived UFO sightings from allover the world. They noticed that the sightings follow a pattern, and from this, they deduced a predictive formula for when they would appear. The Skywatchers met at locations where they believed UFOs would pass at a certain time, in 2026 Ansbro still holds semi-regular events following the same predictions. 
 
 ![](/images/betty-article-pic-8.png)
 
-
-
 ## **Ansbro operating his UFO station in Boyle -17th December , 1997, The Roscommon Herald**
-
-
-
-
 
 The society was inundated with reports from all over the country, “sensible down-to-earth pillars of the community, were contacting us to tell of their experiences and sightings of UFOs.” It had grown too big and now encompassed the entirety of the island, warranting a name change to the UFO Society of Ireland. In September 1997, Betty organised the first UFO convention in Boyle, an annual tradition which lasted until 2009 and had iterations up and down the country. The conventions drew well-known figures in Ufology from allover the world, including Stanton T Friedman, a nuclear physicist and famed central investigator of the Roswell UFO crash. Pete Higgins attended one of the conventions, “I got the impression that everyone seemed to have a genuine interest; there wasn’t anybody there out of nosiness.”
 
-
-
 ![](/images/betty-article-pic-9.png)
 
-
-
 ## **RTÉ Archives 1999 - Nationwide: Close Encounters –Boyle Skywatchers**
-
-
-
-
 
 UFOSI launched a website where members could directly submit reports and produced a monthly newsletter with county-by-county UFO predictions. They originally used Ansbro’s algorithmic formula to make predictions, but soon switched to Betty's ‘crystal dowsing’, a process which involved Betty spending hours asking her pendulum when UFOs might appear. Higgins, on this change, said, “I don’t know if he (Ansbro) got on with Betty, he was the very scientific side of ufology whereas betty was more into kind of outlandish ideas, I think they kind of clashed on that, I think he thought she was kind of bringing down the side with the things she talked about whereas he had a telescope and a lab.”
 
@@ -133,11 +89,7 @@ Pete concluded that her beliefs were based on a general openness to what the wor
 
 ![](/images/betty-article-pic-10.png)
 
-
-
 ## **UFOSI website 2003 – Internet Archive**
-
-
 
 Meyler fell ill not too long after filming the ‘UFO’ documentary, “I went to see her in hospital shortly before she died, she was still very chipper and the same old Betty, loads of enthusiasm.”
 
@@ -151,27 +103,17 @@ The UFOSI website went down in 2014, and now there are seldom mentions of her on
 
 ## **March 18th, 2014, Roscommon Herald**
 
-
-
-
-
 Betty represents a bygone age of compassionate, genuine interest in that which is on the margins of modern life.  The people who knew her described her as an open-minded, community-oriented person who ridiculed no one for their beliefs, even when they did not afford her the same level of respect. 
-
- 
 
 ![](/images/betty-article-pic-12.png)
 
-
-
 ## **Roscommon Herald, October 26th 2010**
-
-
 
 \------------------------------------------------
 
-### LMFAO061 ARCHIVE : NEWSPAPER CLIPPINGS RELATED TO UFO SOCIETY OF IRELAND , BETTY MEYLER , BOYLE UFOS , UFO CRASH IN THE CURLEW MOUNTAINS - **[CLICK-HERE-TO-ACCESS](<LMFAO061 ARCHIVE : NEWSPAPER CLIPPINGS RELATED TO UFO SOCIETY OF IRELAND , BETTY MEYLER , BOYLE UFOS , UFO CRASH IN THE CURLEW MOUNTAINS>)**
+### LMFAO061 ARCHIVE : NEWSPAPER CLIPPINGS RELATED TO UFO SOCIETY OF IRELAND , BETTY MEYLER , BOYLE UFOS , UFO CRASH IN THE CURLEW MOUNTAINS - **[CLICK-HERE](https://docs.google.com/document/d/1VefEOqJ7RTmDoeVrtGZfiYDjFBpROni4--dza_Ic3Fc/edit?usp=sharing)**
 
-### Link to archived UFO society of Ireland website **[HERE ](<>)**
+### Link to archived UFO society of Ireland website **[HERE ](https://web.archive.org/web/20140812205143/http://www.ufosocietyireland.com/starship-capricorn.htm)**
 
 ### Link to Pete Higgins documentary 'UFO' [HERE](https://vimeo.com/10269021)
 
