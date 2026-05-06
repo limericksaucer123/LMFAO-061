@@ -13,7 +13,7 @@ description: "BETTY "
 
 ![](/images/betty-article-pic-2.jpg)
 
-## **Betty Using her pendulum to locate the UFO portalunder Lough Key**
+## **Betty Using her pendulum to locate the UFO portal under Lough Key**
 
 Betty Meyler was the president of the Boyle UFO Society of Ireland(UFOSI), a paranormal investigation group that boasted hundreds of members and held numerous conventions that attracted enthusiasts from all over the world. The presence of such an active organisation in a small rural town like Boyle is shocking to many, but in fact, Roscommon and Ireland as a whole ranked amongst the highest in Europe for UFO sightings in the early 2000s.
 
@@ -71,7 +71,7 @@ That changed in February 1998 when Woman's Way magazine published a two-page fea
 
 ![](/images/betty-article-pic-8.png)
 
-## **Ansbro operating his UFO station in Boyle -17th December , 1997, The Roscommon Herald**
+## **Ansbro operating his UFO station in Boyle - 17th December , 1997, The Roscommon Herald**
 
 The society was inundated with reports from all over the country, “sensible down-to-earth pillars of the community, were contacting us to tell of their experiences and sightings of UFOs.” It had grown too big and now encompassed the entirety of the island, warranting a name change to the UFO Society of Ireland. In September 1997, Betty organised the first UFO convention in Boyle, an annual tradition which lasted until 2009 and had iterations up and down the country. The conventions drew well-known figures in Ufology from allover the world, including Stanton T Friedman, a nuclear physicist and famed central investigator of the Roswell UFO crash. Pete Higgins attended one of the conventions, “I got the impression that everyone seemed to have a genuine interest; there wasn’t anybody there out of nosiness.”
 
