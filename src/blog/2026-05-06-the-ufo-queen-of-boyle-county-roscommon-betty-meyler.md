@@ -9,7 +9,9 @@ tags:
 image: /images/betty-article-pic-1.jpg
 description: "BETTY "
 ---
-“There Is a UFO portal about 25 feet into the lake. A portal is a doorway of some description, and the way we look at it in ufology is that it is a portal to another dimension,” says Betty Meyler in the 2009 documentary ‘UFO’ by Pete Higgins. Higgins filmed Betty sitting in a small boat on Lough Key inCounty Roscommon. She sits bundled up in a large, striking red coat as she takes a crystal on a chain from her pocket and says, ‘When I'm over the portal, I am going to ask the question, ‘Where is the portal?’ And if it goes round and round, it’s a yes.”
+## A small sample of the tabloid coverage of Betty Meyler 
+
+### “There Is a UFO portal about 25 feet into the lake. A portal is a doorway of some description, and the way we look at it in ufology is that it is a portal to another dimension,” says Betty Meyler in the 2009 documentary ‘UFO’ by Pete Higgins. Higgins filmed Betty sitting in a small boat on Lough Key inCounty Roscommon. She sits bundled up in a large, striking red coat as she takes a crystal on a chain from her pocket and says, ‘When I'm over the portal, I am going to ask the question, ‘Where is the portal?’ And if it goes round and round, it’s a yes.”
 
 ![](/images/betty-article-pic-2.jpg)
 
