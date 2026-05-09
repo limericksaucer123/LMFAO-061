@@ -1,6 +1,7 @@
 ---
 layout: article
-title: "The Great Steel Messiah -  Part 1 of 'When The World Died Screaming' "
+title: "The Great Steel Messiah -  Entry 1 of  series 'When The World Died
+  Screaming' "
 author: Fred Russin
 date: 2026-05-09T22:22:00.000+01:00
 tags:
