@@ -10,6 +10,8 @@ tags:
 image: /images/sean-pub-6.webp
 description: sean pub
 ---
+
+
 Dublin's pubs have long been the focus of literary tours for tourists. One of the city's leading historians is Donal Fallon, who has a new book to publish about the social and cultural history of these ancient houses.
 
 Is fada gobhfuil turais liteartha do thuraiseoirí dírithe ar lámhacán thithe tábhairne Bhleá Cliath. Duine de stairithe aitheanta na cathrach is ea Donal Fallon, a bhfuil leabhar nua aige le foilsiú fé stair shóisialta agus cultúrtha na dtitheársa seo.
@@ -118,6 +120,8 @@ Le linn an lae, ag coisíocht le Donal thar sráideanna plódaithe doirneoige, c
 
 ![](/images/sean-pub-11.webp)
 
-Donal Fallons is the author of *The Dublin Pub: A Cultural and Social History* and has been running the Three Castles Burning podcast since 2019
+**Donal Fallons is the author of *The Dublin Pub: A Cultural and Social History* and has been running the Three Castles Burning podcast since 2019**
 
-Photography by Billy Woods
+**Photography by Billy Woods** 
+
+**ORIGINALLY WRITTEN FOR AND PUBLISHED BY RTÉ 2025 - RE-PUBLISHED WITH AUTHORS PERMISSION**
