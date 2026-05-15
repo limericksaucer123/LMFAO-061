@@ -86,7 +86,7 @@ At one point, while we were between two pubs, Donal said to me, "I often think a
 
 In the last pub I asked Donal about the place of pubs in contemporary Ireland.
 
-Ag pointe amháin, agus sinn idir dhá thábhairne, dúirt Donal liom, "I often think about the joke in Ulysses, how do you go across Dublin without passing a pub?Nowadays, you couldn’t walk across the city without crossing a closed-down pub." Tá sé seo fíor fud fad na tíre, le breis agus dhá mhíle tábhairne adúnadh in Éirinn idir 2005 agus 2024.
+Ag pointe amháin, agus sinn idir dhá thábhairne, dúirt Donal liom, "I often think about the joke in Ulysses, how do you go across Dublin without passing a pub? Nowadays, you couldn’t walk across the city without crossing a closed-down pub." Tá sé seo fíor fud fad na tíre, le breis agus dhá mhíle tábhairne adúnadh in Éirinn idir 2005 agus 2024.
 
 Sa pub deireanach d’fhiafraíos ar Donal faoin áit atá ag na tithe tábhairní in Éireann comhaimseartha.
 
@@ -100,7 +100,7 @@ Sa pub deireanach d’fhiafraíos ar Donal faoin áit atá ag na tithe tábhairn
 
 At this point, a man drinking at the counter politely drew our attention to a plaque on the wall commemorating the beloved character of Bleá Cliathach, known as Bang Bang, from the playful gunshots he would throw at passersby, who would follow the game. Part of the plaque is a key, which he would call his Colt 45. 
 
-Ag an bpointe seo, tharraing fear a bhí ag ól ag an gcúntar ár n-aird, go béasach, arleac cuimh neacháin ar an mballa den gcarachtar ionúin Bleá Cliathach, a raibh aithne air mar Bang Bang, as na screadanna shúgartha lámhaigh a chaitheadh séar dhaoine ag siúl thar bráid, a chloíghfeadh leis an imeartas. Mar chuid denleac tá eochair, ar a dtabharfadh sé a Colt 45 air. Bhí ana-chur amach ag Donalar Bang Bang, dar ndóigh, agus ba léir a chion ar an stráinséar ina ghnúis.Lean sé leis ag rá,
+Ag an bpointe seo, tharraing fear a bhí ag ól ag an gcúntar ár n-aird, go béasach, arleac cuimh neacháin ar an mballa den gcarachtar ionúin Bleá Cliathach, a raibh aithne air mar Bang Bang, as na screadanna shúgartha lámhaigh a chaitheadh séar dhaoine ag siúl thar bráid, a chloíghfeadh leis an imeartas. Mar chuid denleac tá eochair, ar a dtabharfadh sé a Colt 45 air. Bhí ana-chur amach ag Donalar Bang Bang, dar ndóigh, agus ba léir a chion ar an stráinséar ina ghnúis. Lean sé leis ag rá,
 
 > "*I* *think what just happened there* *is such a* (great) *example of why a pub is special. Because people will just interject, and they’ll talk about the local characters. That’s what I love about this pub. People here talk about Bang Bang and other Dublin street characters, and they’ll tell you about them. That’s really special actually. That won’t happen in many city centre pubs- people don’t do that. So, for me, what happened there is a classic example of how Harold House is a lovely social mix of a pub.*
 >
@@ -110,7 +110,7 @@ Ag an bpointe seo, tharraing fear a bhí ag ól ag an gcúntar ár n-aird, go b�
 
 I then tell Dónal that it is a book about the social history of Dublin using the pubs to tell the story, rather than a book about pubs, "Which is a great way of putting it. This book is not telling the reader, ‘Here are the ten best pubs in Dublin and you better listen to me because I’ve got a million followers.’ It’s more saying, ‘Here’s a history of Dublin told through its public houses.’"
 
-Deirim le Dónal ansin gur leabhar faoi stair shóisialta Bhleá Cliath ag baint úsáide as na dtábhairní chun an scéal a insint, seach as leabhar faoi thithe tábhairní, "Which is a great way of putting it. This book is not telling the reader,‘Here are the ten best pubs in Dublin and you better listen to me because I’ve got a million followers.’ It’s more saying, ‘Here’s a history of Dublin told through its public houses.’"
+Deirim le Dónal ansin gur leabhar faoi stair shóisialta Bhleá Cliath ag baint úsáide as na dtábhairní chun an scéal a insint, seach as leabhar faoi thithe tábhairní, "Which is a great way of putting it. This book is not telling the reader, ‘Here are the ten best pubs in Dublin and you better listen to me because I’ve got a million followers.’ It’s more saying, ‘Here’s a history of Dublin told through its public houses.’"
 
 During the day, walking with Donal through the crowded streets of Ballyclahan, he was stopped quite often by his fellow citizens of Blyth, congratulating him on his work, including his wedding. The admiration and affection people had for him was obvious and they shared the same feeling. It was clear to me then that Donal himself now has a position where every pick is as permanent as the characters and places that are dear to him, and the stories that Donal has collected to tell.
 
