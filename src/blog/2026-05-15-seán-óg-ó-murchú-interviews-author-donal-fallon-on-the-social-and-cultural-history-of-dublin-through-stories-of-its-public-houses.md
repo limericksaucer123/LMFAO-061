@@ -16,11 +16,11 @@ Dublin's pubs have long been the focus of literary tours for tourists. One of th
 
 Is fada gobhfuil turais liteartha do thuraiseoirí dírithe ar lámhacán thithe tábhairne Bhleá Cliath. Duine de stairithe aitheanta na cathrach is ea Donal Fallon, a bhfuil leabhar nua aige le foilsiú fé stair shóisialta agus cultúrtha na dtitheársa seo.
 
-> *“Dublin pubs are special (or the special ones are atleast), and I hold a multitude of fond memories set in many of them. I love thepresence and the partitions of the Gravedigger’s. I love McDaid’s and itsfamous ghosts. And who could not love the Cobblestone when the ceol is flowingfreely, spilling out onto Smithfield through the open windows like smoke?”*
+> *“Dublin pubs are special (or the special ones are atleast), and I hold a multitude of fond memories set in many of them. I love the presence and the partitions of the Gravedigger’s. I love McDaid’s and its famous ghosts. And who could not love the Cobblestone when the ceol is flowing freely, spilling out onto Smithfield through the open windows like smoke?”*
 
 A Dublin pub lover is the city's own son, Dónal Fallon, historian and host of the popular podcast, Three Castles Burning. In fact, he is so fond of some of these houses that he has written a book about them, and I was delighted to talk to him about them. He took me on a tour of the city on a bright Tuesday afternoon. We met at the Palace Bar.
 
-Duine gur bhreá leis tábhairní Bhleá Cliath is ea mac na cathrach féin, Dónal Fallon, stairí agus láithreoir an podcraoladh móréillimh,Three Castles Burning. I ndáiríre, is mó an sásaimh dó cuid de an dtithe seo gobhfuil leabhar scríofa aige ina dtaobh, agus bhí d'adh ormsa dul chun cainteleis faoi. Thóg sé thart timpeall na cathrach mé tráthnóna geal Máirte. Chasamar le chéile ag an Palace Bar.
+Duine gur bhreá leis tábhairní Bhleá Cliath is ea mac na cathrach féin, Dónal Fallon, stairí agus láithreoir an podcraoladh móréillimh, Three Castles Burning. I ndáiríre, is mó an sásaimh dó cuid de an dtithe seo gobhfuil leabhar scríofa aige ina dtaobh, agus bhí d'adh ormsa dul chun cainteb leis faoi. Thóg sé thart timpeall na cathrach mé tráthnóna geal Máirte. Chasamar le chéile ag an Palace Bar.
 
 ![](/images/sean-pub-2.webp)
 
@@ -116,7 +116,7 @@ Deirim le Dónal ansin gur leabhar faoi stair shóisialta Bhleá Cliath ag baint
 
 During the day, walking with Donal through the crowded streets of Ballyclahan, he was stopped quite often by his fellow citizens of Blyth, congratulating him on his work, including his wedding. The admiration and affection people had for him was obvious and they shared the same feeling. It was clear to me then that Donal himself now has a position where every pick is as permanent as the characters and places that are dear to him, and the stories that Donal has collected to tell.
 
-Le linn an lae, ag coisíocht le Donal thar sráideanna plódaithe doirneoige, cuireadh stopleis go rí-mhinic ag a chomh shaoránaigh Bhleá Cliathacha, ag tréaslú a shaotharleis, a bhainis san áireamh fiú. Ba léir an chion agus gean a bhí ag daoine airagus roinneadh an bhail céanna orthu. Ba léir domsa ansin go bhfuil staid ag Donal féin anois atá gach pioc chomh buan is atá na carachtair agus na láthairgur mór leis féin, agus a scéalta a bhfuil bailithe ag Donal le n-insint.
+Le linn an lae, ag coisíocht le Donal thar sráideanna plódaithe doirneoige, cuireadh stop leis go rí-mhinic ag a chomh shaoránaigh Bhleá Cliathacha, ag tréaslú a shaotharleis, a bhainis san áireamh fiú. Ba léir an chion agus gean a bhí ag daoine airagus roinneadh an bhail céanna orthu. Ba léir domsa ansin go bhfuil staid ag Donal féin anois atá gach pioc chomh buan is atá na carachtair agus na láthairgur mór leis féin, agus a scéalta a bhfuil bailithe ag Donal le n-insint.
 
 ![](/images/sean-pub-11.webp)
 
