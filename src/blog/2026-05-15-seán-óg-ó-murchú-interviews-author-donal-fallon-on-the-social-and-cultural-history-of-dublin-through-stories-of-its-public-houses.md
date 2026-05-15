@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Seán Óg Ó Murchú interviews author Donal Fallon on the social and
-  cultural history of Dublin through stories of its public houses "
+  cultural history of Dublin told through stories of its public houses "
 author: "Seán Óg Ó Murchú "
 date: 2026-05-15T18:56:00.000+01:00
 tags:
