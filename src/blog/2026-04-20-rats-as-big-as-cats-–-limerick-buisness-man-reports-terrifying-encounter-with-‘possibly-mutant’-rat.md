@@ -6,7 +6,7 @@ author: Mark Cusack
 date: 2026-04-20T20:02:00.000+01:00
 tags:
   - post
-  - featured
+  - ""
 image: /images/rats-as-big-as-cats.jpg
 description: rats
 ---
