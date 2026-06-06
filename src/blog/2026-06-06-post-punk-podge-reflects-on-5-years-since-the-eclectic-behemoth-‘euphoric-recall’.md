@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Post Punk Podge reflects on 5 years since the eclectic behemoth ‘Euphoric
-  Recall’
+title: "Post Punk Podge reflects on 5 years since the eclectic behemoth
+  ‘Euphoric Recall’ "
 author: Mark Cusack
 date: 2026-06-06T14:08:00.000+01:00
 tags:
@@ -88,4 +88,4 @@ EuphoricRecall can be listened to HERE on Bandcamp
 
 ![](/images/podge-article-cover-2021-gig.jpg)
 
-Myself at a Podge gig in Commercial circa 2021 strange COVID times
+##### Myself at a Podge gig in Commercial circa 2021 strange COVID times
