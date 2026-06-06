@@ -48,8 +48,6 @@ Hard Man features The Mary Walloper's central pair, The Hendy Brothers. At the t
 
 1984 and Attic Laundry are scathing tracks typical of Podges' discography, criticising conformity and the effects of blind obedience, “Lyrically Attic Laundry is about the Magdalene Laundries and sort of the Catholic Church overall, it has the angelus bells and a lot of Catholic rhetoric.” 
 
-![](/images/podge-image-4-1984-lyrics.pdf.jpg)
-
 ![](/images/podge-image-5-1984-music.pdf.jpg)
 
 Post Traumatic Stress Destruction and Panic Prevention are a sudden melodic break from the bombardment of the rest of the album. The songs are low and reminiscent of monks chanting, prompting the listener to sway back and forth, soothing tracks that seem to describe panic attacks and an acceptance of everything the album has thrown at the listener thus far. 
@@ -61,8 +59,6 @@ Post Traumatic Stress Destruction and Panic Prevention are a sudden melodic brea
 Euphoric Recall sonically is a final, rising celebration of everything heard thus far.  “It's about my friend Kim and I and looking back on the good times we spent together sessioning. They tell you in rehab that looking back on these times fondly is bad for your recovery. But I feel I needed to honour where I came from to move forward, and the song is about identity and how it shaped you in the past and in the present.”
 
  The bands ‘Ruralcore’ debut was preceded by a slew of EPs and singles, bolstered by feverish performances up and down the country. 2017 was a whopper year with the release of Kick Against The Pricks and the band's first performance in Pharmacia. “Our first gig was in November of that year; I had performed on two other occasions with Naive Ted playing the songs we had worked on together. It was a DIY LK gig, that'll tell you how long ago it was. Our current guitarist crowd surfed at that gig.” 
-
-![](/images/podge-image-9-poster.jpg)
 
 “Le Pizza Galaxy supported us, a sort of live improvised techno group consisting of Chris Quigley, Spud Murphy and Steve Savage.” 
 
