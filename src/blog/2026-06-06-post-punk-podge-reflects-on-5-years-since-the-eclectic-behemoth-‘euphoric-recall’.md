@@ -68,11 +68,7 @@ Euphoric Recall sonically is a final, rising celebration of everything heard thu
 
 “I remember being scared shitless, being honest with you. I had brought two giant fans for either side of me because it was the only way I was going to be able to breathe in the mask; I stupidly hadn’t cut a proper hole in it. It was a stressful gig, I remember the violin not working, I was so pissed off after because I wanted it to be better. I remember I met BlindBoy coming up the stairs. We have been friends since we were younger, and I remember being sickened that he didn’t get to see it, but maybe it was for the best.” 
 
-![](/images/podge-image-8.jpg)
-
 Podges' early work consists of fiery, preaching attacks on the rotten hegemony of Irish life, a sentiment that continues in Euphoric Recall but seems more mature, turning the attacks inwards for an introspective rant against one's own mental health.  “Not a lot has changed since the early releases, I think the names of people change, but the rest says the same. The state the city is in has gotten worse, if anything, due to crime and drug problems. The housing crisis definitely hasn’t changed.”  
-
-![](/images/podge-image-7.pdf.jpg)
 
 5 years onfrom this release, Podge and the Technohippies are tinkering away in the studioat their next album, ‘Cost Of Living Prizes’. 
 
