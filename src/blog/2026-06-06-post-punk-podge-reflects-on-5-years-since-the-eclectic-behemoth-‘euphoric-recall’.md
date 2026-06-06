@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Post Punk Podge reflects on 5 years since the eclectic behemoth
-  ‘Euphoric Recall’ "
+title: "Post Punk Podge reflects on 5 years since the eclectic behemoth of an
+  album ‘Euphoric Recall’ "
 author: Mark Cusack
 date: 2026-06-06T14:08:00.000+01:00
 tags:
