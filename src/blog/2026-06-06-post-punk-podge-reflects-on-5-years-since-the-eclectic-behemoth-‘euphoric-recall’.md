@@ -80,7 +80,7 @@ Podge and the Technohippies have had a prolific output, releasing yearly since 2
 
 “Euphoric Recall is about cherishing life even through the rough times. It's about sitting with all your good points and bad points and putting them into your art.”
 
-EuphoricRecall can be listened to HERE on Bandcamp
+EuphoricRecall can be listened to [HERE](https://postpunkpodgeandthetechnohippies.bandcamp.com/album/euphoric-recall) on Bandcamp
 
 ![](/images/podge-article-cover-2021-gig.jpg)
 
