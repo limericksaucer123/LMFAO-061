@@ -5,7 +5,7 @@ author: Ruaidhrí Ó Dúnlaing
 date: 2026-03-27T15:50:00.000+00:00
 tags:
   - post
-  - featured
+  - ""
 image: /images/t026_looking_into_the_clouds_00_master-1242740385.jpg
 description: short story
 ---
