@@ -605,18 +605,27 @@ header .menu-toggle {
 
   .post-slider .post-wrapper {
     width: 100%;
-    height: auto;
+    height: 280px;
     padding: 10px 0;
+    overflow-x: auto;
+    overflow-y: hidden;
   }
 
   .post-slider .post-wrapper .post {
-    display: block;
-    width: 100%;
-    margin: 0 0 1rem;
+    display: inline-block;
+    width: 280px;
+    height: 250px;
+    margin: 0 10px;
   }
 
   .post-slider .post-wrapper .post .slider-image {
-    height: auto;
+    height: 150px;
+  }
+
+  .post-slider .next,
+  .post-slider .prev {
+    font-size: 1.5em;
+    top: 40%;
   }
 
   .content {
