@@ -160,6 +160,12 @@ header ul li a {
   text-shadow: 0 0 10px rgba(255, 255, 0, 0.8), 0 0 20px rgba(255, 255, 0, 0.6);
 }
 
+header ul li a img {
+  height: 24px;
+  width: auto;
+  display: block;
+}
+
 header ul li a:hover {
   background: #8e2525;
   transition: 0.5s;
