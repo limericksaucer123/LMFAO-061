@@ -592,7 +592,65 @@ header .menu-toggle {
   .content .main-content .post {
     height: auto;
   }
-  
+
+  header .logo-text {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+
+  header ul li a {
+    padding: 14px 16px;
+    font-size: 1rem;
+  }
+
+  .post-slider .post-wrapper {
+    width: 100%;
+    height: auto;
+    padding: 10px 0;
+  }
+
+  .post-slider .post-wrapper .post {
+    display: block;
+    width: 100%;
+    margin: 0 0 1rem;
+  }
+
+  .post-slider .post-wrapper .post .slider-image {
+    height: auto;
+  }
+
+  .content {
+    width: 95%;
+    margin: 1rem auto;
+  }
+
+  .content .main-content .post .post-preview,
+  .content .main-content .post .post-image,
+  .content .main-content .post .post-info {
+    width: 100%;
+    float: none;
+  }
+
+  .content .sidebar {
+    width: 100%;
+    float: none;
+    padding: 0;
+  }
+
+  .auth-content {
+    width: 90%;
+    margin: 2rem auto;
+  }
+
+  .footer {
+    height: auto;
+  }
+
+  .footer .footer-content {
+    flex-direction: column;
+    height: auto;
+  }
+
   .posts-list {
   list-style: none;
   margin: 0;
