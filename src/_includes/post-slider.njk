@@ -9,7 +9,7 @@
     {# Loop through the 'post' collection in reverse (newest first) #}
     {%- for post in collections.featured| reverse -%}
       <div class="post">
-         Use post.data to access front matter values 
+          
         <img src="{{ post.data.image }}" alt="{{ post.data.title }}" class="slider-image">
         
         <div class="post-info">
