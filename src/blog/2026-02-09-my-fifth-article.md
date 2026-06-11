@@ -5,9 +5,8 @@ author: Mark Cusack
 date: 2026-02-25T23:30:00.000+00:00
 tags:
   - post
-  - featured
+  - ""
 image: /images/3-statues.png
-
 description: .
 ---
 

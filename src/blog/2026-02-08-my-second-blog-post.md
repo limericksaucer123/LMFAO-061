@@ -4,9 +4,7 @@ author: Mark Cusack
 date: 2026-02-14T01:20:00.000+00:00
 tags:
   - post
-  - featured
 image: /images/20260213_225325.jpg
-
 description: .
 ---
 

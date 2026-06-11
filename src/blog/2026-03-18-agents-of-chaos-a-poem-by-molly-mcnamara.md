@@ -5,7 +5,6 @@ author: Molly McNamara
 date: 2026-03-18T21:41:00.000+00:00
 tags:
   - post
-  - featured
   - poem
 image: /images/agents-of-chaos-poem.jpg
 description: poem
