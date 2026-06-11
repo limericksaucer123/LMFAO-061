@@ -495,20 +495,36 @@ header .menu-toggle {
 .footer { 
   background: #8e2525;
   color: white;
-  height: 400px;
   position: relative;
+  padding-bottom: 60px;
 }
   
   .footer .footer-content {
   border: 1px solid white;
-  height: 350px;
-  display: flex
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 1rem;
   }
   
-  .footer .footer-contnt .footer-section{
-    flex: 1;
+  .footer .footer-content .footer-section{
+    flex: 1 1 100%;
     padding: 25px;
     
+  }
+
+  .footer .footer-bar {
+    display: block;
+    margin: 1rem auto 0;
+    width: 100%;
+    max-width: 360px;
+    height: auto;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 8px;
+  }
+
+  .footer .footer-bar-small {
+    max-width: 280px;
+    margin-top: 0.75rem;
   }
   
   
