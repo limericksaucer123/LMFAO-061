@@ -3,13 +3,13 @@ backend:
   branch: main
 
 # Media files
-media_folder: "src/images"    # Store uploaded images here
-public_folder: "/images"      # Path used in the generated site
+media_folder: "src/images"    
+public_folder: "/images"      
 
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "src/blog"        # Matches your project structure
+    folder: "src/blog"        
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
