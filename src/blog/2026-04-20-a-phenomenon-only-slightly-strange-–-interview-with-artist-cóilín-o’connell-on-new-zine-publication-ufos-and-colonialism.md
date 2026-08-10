@@ -2,7 +2,7 @@
 layout: article
 title: A Phenomenon Only Slightly Strange – Interview with artist Cóilín
   O’Connell on new zine publication , UFOs and colonialism
-author: "Mark Cusack "
+author: Gabriel Felon
 date: 2026-04-20T21:17:00.000+01:00
 tags:
   - post
