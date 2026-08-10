@@ -1,7 +1,7 @@
 ---
 layout: article
 title: THE UFO QUEEN OF BOYLE COUNTY ROSCOMMON - BETTY MEYLER
-author: Mark Cusack
+author: Gabriel Felon
 date: 2026-05-06T17:27:00.000+01:00
 tags:
   - post
