@@ -76,7 +76,7 @@ The phrase “We’re in the Family” actually holds a strange significance to 
 
 ![](/images/image-7.jpg)
 
-David Brandt Berg / Moses David/  Mo / King David / Father David
+##### David Brandt Berg / Moses David/  Mo / King David / Father David
 
 Former members of the group describe childhood ‘sex-dates’ with elderly men, many describing the normalisation of sexual abuse from the age of three. The scale of exploitation within the cult is gargantuan and completely out of the scope of this article.
 
