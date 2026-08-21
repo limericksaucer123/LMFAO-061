@@ -6,7 +6,7 @@ date: 2026-08-21T22:20:00.000+01:00
 tags:
   - post
   - featured
-image: /images/untitled.png
+image: /images/tom-the-bomb.jpg
 description: sss
 ---
 There is a feeling in society that we are losing a sense of community, that people aren’t as quick to look out for others, staying in their own lane in day-to-day life. The phrase ‘Everyone wants to have a village, but no one wants to be a villager’ repeated in online discourse again and again. This is a feeling that resonates, that has stuck with many. In a world lacking clear third spaces, lacking community spaces, where money has to be spent in an establishment for the privilege of sitting there for a few hours. and social media emphasises that every person should be in charge of and represent their own brand, everything is a performance; a mask put up to show an idea of yourself. Do we really live in a world lacking community, and how can we affect change to this feeling of alienation? 
