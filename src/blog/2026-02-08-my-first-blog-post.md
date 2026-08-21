@@ -1,12 +1,20 @@
+---
+title: L.M.F.A.O 061 - A NEW FRONTIER IN LIMERICK JOURNALISM
+author: Gabriel Felon
+date: 2026-08-21T09:47:00.000+01:00
+image: /images/space.jpg
+description: launch
+---
 title: L.M.F.A.O 061 - A NEW FRONTIER IN LIMERICK JOURNALISM
 author: "Mark Cusack "
 date: 2026-01-04T16:43:00.000+00:00
 tags:
-  - post
-image: /images/LMFAO.jpg
-description: yes
----
 
+* post
+  image: /images/LMFAO.jpg
+  description: yes
+
+- - -
 
 ## *Letter from the editor*
 
@@ -30,4 +38,4 @@ Submissions will very rarely be rejected. **Tip-offs are also very badly needed*
 
  If your brain is in the same state as my own then you find Instagram reels and Tik Tok to be evil highly-addictive monsters that placate and dilute your passions.
 
-Mark Cusack
+Gabriel Felon
