@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "International Womens Day in Limerick 2026 : No Shamrocks for Trump"
-author: "Mark Cusack "
+author: Gabriel Felon
 date: 2026-03-02T17:44:00.000+00:00
 tags:
   - post
