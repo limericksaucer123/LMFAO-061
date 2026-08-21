@@ -13,6 +13,8 @@ There is a feeling in society that we are losing a sense of community, that peop
 
 ![](/images/tom-as-dj-source-the-observer.jpg)
 
+*Credit The Observer*
+
 One change that could play into this feeling is the loss of the church as an epicentre of community. The number of people in Ireland who described themselves as having ‘no religion’ increased by 187% between the census in 2011 and 2022. In the 1926 census 93% of Irish citizens described themselves as being Roman Catholic (N= 2.7M). In the 2022 census that percentage dropped to 69% (N= 3.5M). Obviously, there are ample reasons why someone in the modern day would be less inclined to find themselves aligning with the beliefs of the catholic church in Ireland. Despite the fact that the number of people who describe themselves as catholic being larger now than it was there is a very different feeling to Irish Catholicism today. When an ambulance passes, you might see someone bless themselves. When someone sneezes, you might hear a ‘Bless you’. When you head to any given church in the country on a Sunday morning however, you will not see pews crammed full of people in their best dress, wide eyes and perked ears. The church is no longer a place to bring the entirety of the community together, no longer a place to congregate. It isn’t a place that the general person feels some sense of belonging to, where one has a sense of a communal idea. The parish was a central part of Irish society, and the parish would gather on a Sunday. 
 
 ![](/images/leaflet.jpg)
