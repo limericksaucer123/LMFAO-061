@@ -1,6 +1,6 @@
 ---
 title: Fundraiser in support of the 'Shannon Three' at Pharmacia this Friday
-author: Mark Cusack
+author: Gabriel Felon
 date: 2026-02-11T20:34:00.000+00:00
 tags:
   - post
