@@ -41,6 +41,6 @@ The musicality, the rhythm, the pure joy of collective motion. A mass of bodies,
 
 **CHARITY CD FEATURING CLASSIC SONGS FROM TOMS SET** 
 
-**DETAILS TO COME**
+**..........DETAILS TO COME..........**
 
 ![](/images/cd-yes.png)
