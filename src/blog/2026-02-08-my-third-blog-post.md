@@ -1,12 +1,11 @@
 ---
 title: "Gerry Battles : The Search For Limericks Only Alien Abductee"
-author: Mark Cusack
+author: Gabriel Felon
 date: 2026-02-23T15:55:00.000+00:00
 tags:
   - post
   - featured
 image: /images/gery-inside-with-painting.jpg
-
 description: .
 ---
 
