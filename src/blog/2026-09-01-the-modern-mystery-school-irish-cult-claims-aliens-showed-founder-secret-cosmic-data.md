@@ -44,4 +44,4 @@ If you scroll through the social media pages of the Dublin and Derry teams today
 
 ***[Photo Credits](https://dialogueireland.wordpress.com/2021/05/23/modern-mystery-school-money-magic-sex-and-power/)***
 
-*[Link to Dialogue Ireland Wordpress ](https://dialogueireland.wordpress.com/)*
+***[Link to Dialogue Ireland Wordpress ](https://dialogueireland.wordpress.com/)***
