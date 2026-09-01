@@ -10,11 +10,13 @@ tags:
 image: /images/modern-mystery-image-1.jpg
 description: hh
 ---
-## **Ian O'Grady is a sci-fi and horror writer from Limerick but presently living in Cork.** 
+## **Ian O'Grady is a sci-fi and horror writer from Limerick but presently living in Cork.**
 
-## **In 2021 , Ian produced an article for Irish Cult watchdog** *[**'**Dialogue Ireland'](https://dialogueireland.wordpress.com/2021/05/23/modern-mystery-school-money-magic-sex-and-power/)* **about The Modern Mystery School , an international cult which blends Christian mysticism and ritual magic from the Hermetic Order of The Golden Dawn (A late 19th century Occult group whose members included W.B Yeats and Maud Gonne).**
+## **In 2021 ,** [**Ian produced an article for Irish Cult watchdog Dialogue Ireland** ](https://dialogueireland.wordpress.com/2021/05/23/modern-mystery-school-money-magic-sex-and-power/)**about The Modern Mystery School , an international cult which blends Christian mysticism and ritual magic from the Hermetic Order of The Golden Dawn (A late 19th century Occult group whose members included W.B Yeats and Maud Gonne).**
 
-## **The article was published in response to a *[Vice article from 2021.](https://www.vice.com/en/article/inside-the-bizarre-cult-whose-members-allege-sexual-and-financial-exploitation/)* Allegedly , the founder of Dialogue Ireland was the first to bring the cult to the publics attention and collaborated with Vice on the piece but was not credited. As part of his research , Ian joined the cult but found that membership and entry to anything past zoom calls was very expensive. This piece is an introduction to the MMS and an update on thee groups current state in Ireland.** 
+## **The article was published in response to a *[Vice article from 2021.](https://www.vice.com/en/article/inside-the-bizarre-cult-whose-members-allege-sexual-and-financial-exploitation/)* Allegedly , the founder of Dialogue Ireland was the first to bring the cult to the publics attention and collaborated with Vice on the piece but was not credited. As part of his research , Ian joined the cult but found that membership and entry to anything past zoom calls was very expensive.** 
+
+## **Ian submitted this piece as an introduction to the MMS and an update on the groups current state in Ireland.**
 
 ![](/images/modern-mystery-image-3.jpg)
 
@@ -40,4 +42,6 @@ It is this profound disconnect that makes the group's current Irish revival so c
 
 If you scroll through the social media pages of the Dublin and Derry teams today, however,  you will not see any mention of interdimensional plasma ships, 19th-century magical  gatekeeping, or high-tier starvation tests and earth burials. Instead, you will find bright,  modern wellness imagery, smiling faces at local charity runs, and gentle invitations to unlock  your inner potential through a simple Life Activation session. But as the breadcrumbs lead  from the entry-level workshops straight to Gudni Gudnason's ultimate cosmic hierarchy, the  reality becomes clear. The quiet period that followed the public exposés has ended, and the  Modern Mystery School is once again expanding its footprint in Ireland. They have simply  mastered the art of hiding a complex, high-control esoteric world behind a very glossy,  ordinary-looking door.
 
-***[Photo Credits  ](https://dialogueireland.wordpress.com/2021/05/23/modern-mystery-school-money-magic-sex-and-power/)***
+***[Photo Credits](https://dialogueireland.wordpress.com/2021/05/23/modern-mystery-school-money-magic-sex-and-power/)***
+
+*[Link to Dialogue Ireland Wordpress ](https://dialogueireland.wordpress.com/)*
