@@ -5,3 +5,10 @@
 [build.environment]
   NODE_VERSION = "20"
   NPM_CONFIG_PRODUCTION = "false"
+  # The Simple Analytics extension deploys an edge function on /* that injects
+  # its script via a WebAssembly HTMLRewriter fetched from deno.land at request
+  # time. When that fetch fails the module throws before the handler runs, so
+  # its `onError: "bypass"` cannot catch it and visitors get "Uncaught exception
+  # during edge function invocation". The script is injected at build time
+  # instead (see src/_data/simpleAnalytics.js), so the edge function is not needed.
+  ENABLE_SIMPLE_ANALYTICS = "false"
