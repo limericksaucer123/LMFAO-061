@@ -38,6 +38,8 @@ The author is aware of two further past residents of the Rossmanagher road, of n
 
 ![](/images/smb-1.jpg)
 
+*Blind window on Rossmanagher road wherein the informant claims she and two friends saw a face*
+
 Each of these stories of meetings with the ‘Black man’ share many commonalities. It occurs to travellers at night, walking of course. The man never speaks, but follows at the side of the traveller. An interesting element in the first tale is that the man disappears at a bridge, which showcases the widespread belief in Irish folklore that ghosts cannot traverse running water. Eddie Lenihan in his discussion on a tale of ‘the Latoon Hunt’ in his book *Meeting the Other Crowd* describes how in the Irish mind, stories of ghosts and fairies are closely connected. The first tale also involves a fairy fort, connecting what is seemingly a ghostly encounter with the fairies. All descriptions are some what vague, which famed antiquarian T. J. Westropp in his discussions on ghosts in the early 20th century suggests ‘the subject is usually regarded too seriously \[by the informer] for verbal embroidery’.
 
 ##### The Lights
@@ -72,6 +74,8 @@ He goes on to say after finding refuge in to house the sound disappeared, but as
 
 ![](/images/smb-2.jpg)
 
+Entrance to the 18th century walled garden at Castlecrine, north of the town which was historically owned by the Butler family. The walls are still reffered to locally as the Orchard or Butler's Orcahrd. 
+
 A second account from the Schools’ Collection tells of two men heading to Limerick, who in order to avoid the toll bridge at Rossmanagher, took the longer road by Ballintlea. One of them turned around to see ‘a headless man’ at the heels of their cart, and they could not get their horse to move faster. The man only disappeared as they came close to crossing the river Garney, ‘because ghosts cannot pass over water’ *(NFC 0596: 301 Rossmanagher, Co. Clare)*. This story may be connected to the death coach as it involves a ‘headless man’, or alternatively is another manifestation of the ‘black man’. Interestingly, the belief that ghosts cannot pass over water is repeated.
 
 Our informant resident near Ballycullen told of Feenagh, a townland north west of Sixmilebridge:
@@ -105,5 +109,49 @@ His earliest account dates to 1806, and these accounts are again a mixture of si
 The case of the ‘Fear Dubh’ is unique to the area in some aspects. Descriptions of how he never speaks, even when saluted, and walks alongside the witness are consistent, and such consistency is hard to find in any other references to a ‘black man’ in the National Folklore Collection. There is less consistency with descriptions of strange lights and the death coach, and their connections to other supernatural entities are unclear. So from this, what conclusions can we come to about what place supernatural encounters hold in the modern consciousness? The older stories are obviously part of the rich collection of folklore that exists throughout Ireland in relation to the unexplained and supernatural. They come from a time where the reality of these beings and happenings was often unquestioned, before the advent of electricity and television that many cite as a watershed moment for the decline in the power they held over the population. However, the modern day first hand accounts from residents in the hinterlands of this modern, ever expanding commuter town throw a spanner in the works, so to say. 
 
 The author has confirmed that stories of encounters, except perhaps those of the named ‘death coach’, are told independent of any knowledge of the older stories or wider tradition. Even more compelling is multiple witnesses to the same manifestations have come to light with no connections to each other. Therein lies the question: Are the old stories, just old stories told for entertainment in the days before modern convenience, or are they in fact reports of true encounters with supernatural entities that continue to stalk the many roads leading to and from the historic crossing point of Sixmilebridge?
+
+> \------------------------------------------------------------------------------------------------------------------------
+
+*ArchivalReferences*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 302.Rossmanagher, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 325.Ballyroe, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 374.Sixmilebridge, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 303.Rossmanagher, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 308.Rossmanagher, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 162.Ballysheen More, Co. Clare.*  
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page  151. Drumullan, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page  359. Cappagh North, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0409. Page 082.Mountcoal, Co. Kerry.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 297.Ballyroe, Co. Clare.*
+
+*The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 301.Rossmanagher, Co. Clare.*
+
+
+
+*Secondary Source List of References*
+
+*Ó’Suilleabháin, S. (1970) A handbook of Irish folklore.Singing Tree. Detroit.*
+
+*Westropp, T.J. (2003) Folklore of Clare. ClaspPress. Ennis.*
+
+*Almqvist, Bo (1991) ‘Crossing the Border: A Sampler ofIrish Migratory Legends about the Supernatural’. Béaloideas 59, pp.209-217.*
+
+*Ó’Hógáin, D. (1995) Irish Superstitions. Gill& MacMillan, Dublin.*
+
+ * Lenihan, E.& Green, C.E. (2004) Meeting the Other Crowd. Jeremy P.Tarcher/Penguin, New York.*
+
+*Holohan, P. (Edt.) (1991) Cill Mhuire Na nGall – AHistory of Kilmurry 1891-1991. Clare Champion Printers, Ennis.*
+
+ 
 
 >
