@@ -74,7 +74,7 @@ He goes on to say after finding refuge in to house the sound disappeared, but as
 
 ![](/images/smb-2.jpg)
 
-Entrance to the 18th century walled garden at Castlecrine, north of the town which was historically owned by the Butler family. The walls are still reffered to locally as the Orchard or Butler's Orcahrd. 
+*Entrance to the 18th century walled garden at Castlecrine, north of the town which was historically owned by the Butler family. The walls are still reffered to locally as the Orchard or Butler's Orchard.* 
 
 A second account from the Schools’ Collection tells of two men heading to Limerick, who in order to avoid the toll bridge at Rossmanagher, took the longer road by Ballintlea. One of them turned around to see ‘a headless man’ at the heels of their cart, and they could not get their horse to move faster. The man only disappeared as they came close to crossing the river Garney, ‘because ghosts cannot pass over water’ *(NFC 0596: 301 Rossmanagher, Co. Clare)*. This story may be connected to the death coach as it involves a ‘headless man’, or alternatively is another manifestation of the ‘black man’. Interestingly, the belief that ghosts cannot pass over water is repeated.
 
