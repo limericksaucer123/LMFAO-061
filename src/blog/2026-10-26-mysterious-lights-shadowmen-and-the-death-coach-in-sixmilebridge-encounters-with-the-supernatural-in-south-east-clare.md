@@ -7,7 +7,7 @@ date: 2026-10-26T18:23:00.000+00:00
 tags:
   - post
   - featured
-image: /images/smb-3.jpg
+image: /images/sixmilebridge.png
 description: dullahan
 ---
 > ### *Work your day…an’ sleep your night, an’ let the evil take its flight*
@@ -67,6 +67,8 @@ Treasure legends are very common in the Irish tradition. Folklorist Seán Ó’S
 This manifestation is described as being both heard and seen at night along the country roads of the district. Jimmy Armstrong of Ballyroughan was interviewed by Eddie Lenihan in the latter half of the 20th century. He gives an account of hearing the ‘cóiste bodhar’ after eleven o’clock at night when on ‘cuaird’ (visiting) at a friend’s house in ‘Rath Lúb’ (Rathluby), a townland heading north towards Ennis in parish of Kilmurry:
 
 > *Westood in the green talkin’, an’ the next thing we heard was all this screeching. Now, the best way I could describe it, ‘twas like an oul’ common car that didn’t see a drop of oil or a bit o’ grease for about forty years, an ’‘twas comin’ through Littleton’s place in Sean Daingean. The man o’ the house said to the rest of us “Come in” sez he, “an’ let that pass, whatever it is. An’ I don’t know” sez he “what road ‘twill take. But come back! Come in! That’s the cóiste bodhar if ‘tis in Ireland.”*
+
+![](/images/untitled-design-3-.png)
 
 He goes on to say after finding refuge in to house the sound disappeared, but as the party went outside they could hear it again, and it eventually faded out over Ballyroughan Hill. An altogether more physical manifestation of this carriage is described in an account from Patrick Mulready of Ballyroe :
 
@@ -136,8 +138,6 @@ The author has confirmed that stories of encounters, except perhaps those of the
 
 *The Schools’ Collection. NationalFolklore Collection. University College Dublin. Volume 0596. Page 301.Rossmanagher, Co. Clare.*
 
-
-
 *Secondary Source List of References*
 
 *Ó’Suilleabháin, S. (1970) A handbook of Irish folklore.Singing Tree. Detroit.*
@@ -148,10 +148,8 @@ The author has confirmed that stories of encounters, except perhaps those of the
 
 *Ó’Hógáin, D. (1995) Irish Superstitions. Gill& MacMillan, Dublin.*
 
- * Lenihan, E.& Green, C.E. (2004) Meeting the Other Crowd. Jeremy P.Tarcher/Penguin, New York.*
+  *Lenihan, E.& Green, C.E. (2004) Meeting the Other Crowd. Jeremy P.Tarcher/Penguin, New York.*
 
 *Holohan, P. (Edt.) (1991) Cill Mhuire Na nGall – AHistory of Kilmurry 1891-1991. Clare Champion Printers, Ennis.*
-
- 
 
 >
