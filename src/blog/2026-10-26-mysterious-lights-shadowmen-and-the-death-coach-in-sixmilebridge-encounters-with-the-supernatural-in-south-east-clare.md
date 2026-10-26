@@ -10,13 +10,13 @@ tags:
 image: /images/pixel-painted-shadow-guy.png
 description: dullahan
 ---
-> ## *Work your day…an’ sleep your night, an’ let the evil take its flight*
+> # *Work your day…an’ sleep your night, an’ let the evil take its flight*
 
 \- some sound advice from a man seemingly not of this world, for the people of Sixmilebridge in south-east county Clare. It was taken from an account from Jimmy Armstrong of Ballyroughan, a townland north in Kilmurry parish, collected by the legendary Eddie Lenihan. Although the story takes place close to the nearby town of Quin, it exemplifies many characteristics of stories recounted of numerous encounters with seemingly supernatural entities in the area. 
 
 The strange man at the centre of this quote was found reading a book beside a graveyard at an ungodly hour of the night and he gives advice to those wanting to live in peace, to do their business in the daytime, but keep in their beds at night to avoid ‘the evil’. This ‘evil’ most often encountered at night, can take many forms. Interestingly, upon review, all the encounters detailed here not only take place at night, but on the roads leading in and out of old Sixmilebridge. rather than from within. Perhaps it is not surprising, as the town owes its existence as a place of passage rather than a destination; it takes its name from the essential crossing point over the Owengarney river and its distance being six old Irish miles from Thomondgate, Limerick city. Its fall from importance in the late eighteenth century was also ironically partially caused by another bridge, a toll bridge built by the unpopular landlord D’Esterre further downstream that cut off boat trade up the river and bypassed the town to land traffic. Interviews with local residents (kept anonymous) were conducted in 2022, where the modern-day encounters detailed inexplicably mirrored those recorded by schoolchildren in the 1930s, showing perhaps that at least in the hinterlands of Sixmilebridge, the old ‘evil’ of the night refuses to go away...
 
-### **Fear Dubh/ The Black Man**
+## **Fear Dubh/ The Black Man**
 
 Four accounts from the Schools’ Collection of the National Folklore Collection (housed in UCD, see Dúchas.ie) from Sixmilebridge National School written in the late 1930s give accounts of three separate encounters with a strange figure at night. He is referred in both English and Irish as the ‘Black Man’ or a ‘man in black’, which should be pointed out refers to a shadow like supernatural figure and not to skin colour or race. The witnesses are named in all accounts, which lends suggests there was sincerity in how the stories were believed to be true. The case of  Martin Egan of Drumline, Newmarket-on Fergus Parish,  was recounted twice by informant James Liddy. One account states:
 
@@ -42,7 +42,7 @@ The author is aware of two further past residents of the Rossmanagher road, of n
 
 Each of these stories of meetings with the ‘Black man’ share many commonalities. It occurs to travellers at night, walking of course. The man never speaks, but follows at the side of the traveller. An interesting element in the first tale is that the man disappears at a bridge, which showcases the widespread belief in Irish folklore that ghosts cannot traverse running water. Eddie Lenihan in his discussion on a tale of ‘the Latoon Hunt’ in his book *Meeting the Other Crowd* describes how in the Irish mind, stories of ghosts and fairies are closely connected. The first tale also involves a fairy fort, connecting what is seemingly a ghostly encounter with the fairies. All descriptions are some what vague, which famed antiquarian T. J. Westropp in his discussions on ghosts in the early 20th century suggests ‘the subject is usually regarded too seriously \[by the informer] for verbal embroidery’.
 
-### The Lights
+## The Lights
 
 Tales of encounters with strange lights come from a route north of the village. A resident near Ballycullen in the east of Sixmilebridge parish tells in an interview conducted in 2022 of their encounter with ‘the lights’ at a crossroads in that townland:
 
@@ -62,7 +62,7 @@ Another series of lights that protect buried treasure were brought upon by recen
 
 Treasure legends are very common in the Irish tradition. Folklorist Seán Ó’Suilleabháin  suggests lines of enquiry into strange lights such as ‘those seen by law breakers or wrong-doers’, which may suggest the theme of treasure-seekers seeing the lights at Drumullan and in the aftermath of excavations at Rossroe are not out of the ordinary in wider tradition. Westropp makes reference in his work to ‘Will-O-The-Wisps’ and ‘Corpse Lights’ but none of his descriptions of these match the nature of the lights encountered in Sixmilebridge or Kilmurry.  
 
-### The Death Coach
+## The Death Coach
 
 This manifestation is described as being both heard and seen at night along the country roads of the district. Jimmy Armstrong of Ballyroughan was interviewed by Eddie Lenihan in the latter half of the 20th century. He gives an account of hearing the ‘cóiste bodhar’ after eleven o’clock at night when on ‘cuaird’ (visiting) at a friend’s house in ‘Rath Lúb’ (Rathluby), a townland heading north towards Ennis in parish of Kilmurry:
 
@@ -92,7 +92,7 @@ Again, this an account where the coach is only heard, but interestingly it is as
 
 His earliest account dates to 1806, and these accounts are again a mixture of sightings and only its noise being heard. Eddie Lenihan in *Meeting the Other Crowd* makes the point that this ‘unearthly vehicle’, its function, as well as where it comes from, vary widely. Some say it is the Devil’s coach, a fairy hearse, transport for the Banshee, as well as an omen of death. In the examples found in the parish, none can be said to comfortably fit into a one of these categories, except maybe the fate of the man stealing from Miss Butler’s Orchard. Did the carriage foretell his death, or cause it? It is worth noting that the informant in their interview describes the death coach in the same line of conversation as the fairies. She states that the friend built their house on a ‘fairy path’, and this was the reason for their troubles. Again, this may indicate there is a memory of an association between the two.
 
-### Conclusions
+## Conclusions
 
  In general, the seen counters with the supernatural in the hinterlands and roads leading from Sixmilebidge contain certain elements that are well represented in the wider Irish tradition. Some of these include:
 
