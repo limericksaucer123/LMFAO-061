@@ -7,7 +7,7 @@ date: 2026-10-26T18:23:00.000+00:00
 tags:
   - post
   - featured
-image: /images/sixmilebridge.png
+image: /images/pixel-painted-shadow-guy.png
 description: dullahan
 ---
 > ### *Work your day…an’ sleep your night, an’ let the evil take its flight*
