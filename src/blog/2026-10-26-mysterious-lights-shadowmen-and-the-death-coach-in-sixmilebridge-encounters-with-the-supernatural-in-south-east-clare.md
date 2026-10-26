@@ -10,8 +10,7 @@ tags:
 image: /images/smb-3.jpg
 description: dullahan
 ---
-> ###### *Work your day…an’ sleep your night, an’ let the evil take its flight*
->
+> ### *Work your day…an’ sleep your night, an’ let the evil take its flight*
 
 \- some sound advice from a man seemingly not of this world, for the people of Sixmilebridge in south-east county Clare. It was taken from an account from Jimmy Armstrong of Ballyroughan, a townland north in Kilmurry parish, collected by the legendary Eddie Lenihan. Although the story takes place close to the nearby town of Quin, it exemplifies many characteristics of stories recounted of numerous encounters with seemingly supernatural entities in the area. 
 
@@ -106,19 +105,5 @@ His earliest account dates to 1806, and these accounts are again a mixture of si
 The case of the ‘Fear Dubh’ is unique to the area in some aspects. Descriptions of how he never speaks, even when saluted, and walks alongside the witness are consistent, and such consistency is hard to find in any other references to a ‘black man’ in the National Folklore Collection. There is less consistency with descriptions of strange lights and the death coach, and their connections to other supernatural entities are unclear. So from this, what conclusions can we come to about what place supernatural encounters hold in the modern consciousness? The older stories are obviously part of the rich collection of folklore that exists throughout Ireland in relation to the unexplained and supernatural. They come from a time where the reality of these beings and happenings was often unquestioned, before the advent of electricity and television that many cite as a watershed moment for the decline in the power they held over the population. However, the modern day first hand accounts from residents in the hinterlands of this modern, ever expanding commuter town throw a spanner in the works, so to say. 
 
 The author has confirmed that stories of encounters, except perhaps those of the named ‘death coach’, are told independent of any knowledge of the older stories or wider tradition. Even more compelling is multiple witnesses to the same manifestations have come to light with no connections to each other. Therein lies the question: Are the old stories, just old stories told for entertainment in the days before modern convenience, or are they in fact reports of true encounters with supernatural entities that continue to stalk the many roads leading to and from the historic crossing point of Sixmilebridge?
-
- 
-
- 
-
- 
-
-    
-
-
-
-
-
-
 
 >
