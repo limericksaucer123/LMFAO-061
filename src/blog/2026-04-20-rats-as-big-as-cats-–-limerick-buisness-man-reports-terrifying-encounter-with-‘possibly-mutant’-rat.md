@@ -2,7 +2,7 @@
 layout: article
 title: "RATS AS BIG AS CATS – Limerick Business man reports terrifying encounter
   with ‘possibly mutant’ rat "
-author: Mark Cusack
+author: Gabriel Felon
 date: 2026-04-20T20:02:00.000+01:00
 tags:
   - post

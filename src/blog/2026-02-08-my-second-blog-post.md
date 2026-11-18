@@ -1,6 +1,6 @@
 ---
 title: LMFAO PEOPLE OF BEER CITY 1 - SHANNON 3 FUNDRAISER
-author: Mark Cusack
+author: Gabriel Felon
 date: 2026-02-14T01:20:00.000+00:00
 tags:
   - post
